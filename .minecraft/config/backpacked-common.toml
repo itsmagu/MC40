@@ -12,7 +12,7 @@
 
 	[common.wandering_trader]
 		#If enabled, allows wandering traders to have a backpack equipped when they spawn.
-		spawnBackpackOnWanderingTraders = true
+		spawnBackpackOnWanderingTraders = false
 		#The chance a Wandering Trader will spawn with a backpack. The chance is interpreted as one out of x, with x being the number given from this config option.
 		#Range: 1 ~ 100
 		wanderingTraderBackpackChance = 2

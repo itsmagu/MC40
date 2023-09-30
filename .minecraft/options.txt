@@ -29,7 +29,7 @@ gamma:0.5
 renderDistance:10
 simulationDistance:5
 entityDistanceScaling:1.0
-guiScale:4
+guiScale:0
 particles:2
 maxFps:260
 graphicsMode:1
@@ -37,8 +37,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:7
 renderClouds:"true"
-resourcePacks:[]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","mod_resources","quark:emote_resources","file/FondResources"]
+incompatibleResourcePacks:["quark:emote_resources"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -136,6 +136,14 @@ key_key.parcool.QuickTurn:key.keyboard.unknown
 key_key.parcool.Flipping:key.keyboard.unknown
 key_key.parcool.HangDown:key.mouse.right
 key_key.backpack:key.keyboard.b
+key_keys.vampirism.action:key.keyboard.r
+key_keys.vampirism.suck:key.keyboard.v
+key_keys.vampirism.select_skills:key.keyboard.p
+key_keys.vampirism.vision:key.keyboard.n
+key_keys.vampirism.action1:key.keyboard.1:ALT
+key_keys.vampirism.action2:key.keyboard.2:ALT
+key_keys.vampirism.action3:key.keyboard.3:ALT
+key_keys.vampirism.minion_task:key.keyboard.unknown
 key_quark.emote.no:key.keyboard.unknown
 key_quark.emote.yes:key.keyboard.unknown
 key_quark.emote.wave:key.keyboard.unknown

@@ -1,24 +1,24 @@
 
 ["Possibility of Actions(Some do not have to work)"]
-	can_BreakfallReady = true
-	can_CatLeap = true
-	can_ClimbPoles = true
+	can_BreakfallReady = false
+	can_CatLeap = false
+	can_ClimbPoles = false
 	can_ClimbUp = true
 	can_ClingToCliff = true
 	can_Crawl = true
-	can_Dive = true
-	can_Dodge = true
-	can_FastRun = true
+	can_Dive = false
+	can_Dodge = false
+	can_FastRun = false
 	can_Flipping = true
 	can_HangDown = true
 	can_HorizontalWallRun = true
-	can_JumpFromBar = true
+	can_JumpFromBar = false
 	can_QuickTurn = true
-	can_Roll = true
-	can_SkyDive = true
+	can_Roll = false
+	can_SkyDive = false
 	can_Slide = true
 	can_Tap = true
-	can_Vault = true
+	can_Vault = false
 	can_VerticalWallRun = true
 	can_WallJump = true
 	can_WallSlide = true
@@ -104,7 +104,7 @@
 	#Make Vault Need Vault Key Pressed
 	vault_needs_key_pressed = false
 	#enable players to do actions needing Fast-Running by sprint
-	substitute_sprint = false
+	substitute_sprint = true
 	#How long duration of dodge is deal as successive dodge
 	#Range: > 0
 	successive_dodge_cool_time = 30

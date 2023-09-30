@@ -1,11 +1,11 @@
 
 ["Feathers' Config"]
 	#Fade the HUD overlay if the feathers are full.
-	"Fade When Full" = false
+	"Fade When Full" = true
 	#Duration (in ticks) before the HUD overlay fades.
 	"Fade Cooldown" = 60
 	#Duration (in ticks) of the HUD Fade-in animation.
-	"Fade-in Duration" = 40
+	"Fade-in Duration" = 20
 	#Duration (in ticks) of the HUD Fade-out animation.
 	"Fade-out Duration" = 40
 	#Whether the feathers flash white when regenerating.
@@ -15,7 +15,7 @@
 	#Whether armor weights are displayed when hovering over an item
 	"Display Weights in Inventory" = true
 	#Whether armor weights are displayed as icons (true) or text (false) when hovering over an item
-	"Display Weight As Icons" = false
+	"Display Weight As Icons" = true
 	#Whether feather icons are affected by icons on the right side of the HUD.
 	"Feathers Affected by Right Side Icons" = true
 	#How far left or right you want the feathers to be
