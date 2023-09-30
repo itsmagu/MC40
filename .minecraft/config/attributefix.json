@@ -55,6 +55,17 @@
         "value": 1024
       }
     },
+    "vampirism:sundamage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
     "forge:nametag_distance": {
       "enabled": false,
       "min": {
@@ -229,6 +240,17 @@
       "max": {
         "default": 20,
         "value": 1000000
+      }
+    },
+    "vampirism:blood_exhaustion": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
       }
     }
   }
