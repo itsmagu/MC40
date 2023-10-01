@@ -9,7 +9,7 @@
 	can_Dive = false
 	can_Dodge = false
 	can_FastRun = false
-	can_Flipping = true
+	can_Flipping = false
 	can_HangDown = true
 	can_HorizontalWallRun = true
 	can_JumpFromBar = false
