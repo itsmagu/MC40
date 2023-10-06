@@ -15,3 +15,5 @@ natives
 .minecraft/screenshots
 .minecraft/saves
 .minecraft/config/plasmovoice
+.minecraft/config/entityculling.json
+.minecraft/patchouli_data.json
