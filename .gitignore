@@ -4,3 +4,9 @@
 .minecraft/logs
 .minecraft/emi.json
 .minecraft/screenshots/worlds/servers
+.minecraft/.bobby
+.minecraft/options.txt
+.minecraft/servers.dat
+.minecraft/servers.dat_old
+.minecraft/usercache.json
+.minecraft/usernamecache.json

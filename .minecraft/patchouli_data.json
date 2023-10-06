@@ -1,0 +1,14 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "hexcasting:thehexbook": {
+      "viewedEntries": [
+        "hexcasting:patterns/basics",
+        "hexcasting:patterns/spells/basic"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}
