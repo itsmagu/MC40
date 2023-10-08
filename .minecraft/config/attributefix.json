@@ -22,6 +22,17 @@
         "value": 512
       }
     },
+    "apotheosis:mining_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
+      }
+    },
     "minecraft:generic.follow_range": {
       "enabled": true,
       "min": {
@@ -33,26 +44,26 @@
         "value": 2048
       }
     },
-    "additionalentityattributes:water_visibility": {
+    "apotheosis:arrow_velocity": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 1024,
-        "value": 1024
+        "default": 10,
+        "value": 10
       }
     },
-    "forge:nametag_distance": {
+    "apotheosis:healing_received": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 64,
-        "value": 64
+        "default": 10,
+        "value": 10
       }
     },
     "forge:entity_gravity": {
@@ -77,37 +88,15 @@
         "value": 2048
       }
     },
-    "additionalentityattributes:water_speed": {
+    "apotheosis:draw_speed": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "minecraft:generic.attack_speed": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
-    "minecraft:generic.attack_damage": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2048,
-        "value": 1000000
+        "default": 4,
+        "value": 4
       }
     },
     "minecraft:generic.luck": {
@@ -121,48 +110,48 @@
         "value": 1024
       }
     },
-    "feathers:feathers.max_feathers": {
+    "apotheosis:ghost_health": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 1024,
-        "value": 1024
+        "default": 1000,
+        "value": 1000
       }
     },
-    "minecraft:generic.armor": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 30,
-        "value": 1000000
-      }
-    },
-    "additionalentityattributes:critical_bonus_damage": {
+    "apotheosis:prot_pierce": {
       "enabled": false,
       "min": {
-        "default": -1,
-        "value": -1
+        "default": 0,
+        "value": 0
       },
       "max": {
-        "default": 1024,
-        "value": 1024
+        "default": 34,
+        "value": 34
       }
     },
-    "minecraft:generic.flying_speed": {
-      "enabled": true,
+    "apotheosis:armor_pierce": {
+      "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 1024,
-        "value": 1024
+        "default": 1000,
+        "value": 1000
+      }
+    },
+    "apotheosis:prot_shred": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
       }
     },
     "forge:reach_distance": {
@@ -209,26 +198,15 @@
         "value": 1024
       }
     },
-    "minecraft:generic.movement_speed": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
-    "caelus:fall_flying": {
+    "apotheosis:arrow_damage": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 1,
-        "value": 1
+        "default": 10,
+        "value": 10
       }
     },
     "feathers:feathers.feather_regen": {
@@ -242,26 +220,15 @@
         "value": 1024
       }
     },
-    "minecraft:generic.max_health": {
-      "enabled": true,
-      "min": {
-        "default": 1,
-        "value": 1
-      },
-      "max": {
-        "default": 1024,
-        "value": 1000000
-      }
-    },
-    "additionalentityattributes:lava_speed": {
+    "apotheosis:fire_damage": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 1,
-        "value": 1
+        "default": 1000,
+        "value": 1000
       }
     },
     "minecraft:zombie.spawn_reinforcements": {
@@ -275,15 +242,37 @@
         "value": 1
       }
     },
-    "minecraft:horse.jump_strength": {
-      "enabled": true,
+    "apotheosis:current_hp_damage": {
+      "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 2,
-        "value": 2
+        "default": 1,
+        "value": 1
+      }
+    },
+    "apotheosis:overheal": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
+      }
+    },
+    "apotheosis:crit_chance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
       }
     },
     "minecraft:generic.attack_knockback": {
@@ -306,17 +295,6 @@
       "max": {
         "default": 1024,
         "value": 1024
-      }
-    },
-    "minecraft:generic.knockback_resistance": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
       }
     },
     "minecraft:generic.armor_toughness": {
@@ -372,6 +350,237 @@
       "max": {
         "default": 2048,
         "value": 2048
+      }
+    },
+    "additionalentityattributes:water_visibility": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "forge:nametag_distance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 64,
+        "value": 64
+      }
+    },
+    "apotheosis:dodge_chance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "additionalentityattributes:water_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "minecraft:generic.attack_speed": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "apotheosis:cold_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
+    "minecraft:generic.attack_damage": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 1000000
+      }
+    },
+    "feathers:feathers.max_feathers": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "minecraft:generic.armor": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 30,
+        "value": 1000000
+      }
+    },
+    "apotheosis:crit_damage": {
+      "enabled": false,
+      "min": {
+        "default": 1,
+        "value": 1
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additionalentityattributes:critical_bonus_damage": {
+      "enabled": false,
+      "min": {
+        "default": -1,
+        "value": -1
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "minecraft:generic.flying_speed": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "apotheosis:life_steal": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
+      }
+    },
+    "apotheosis:experience_gained": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
+      }
+    },
+    "minecraft:generic.movement_speed": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "caelus:fall_flying": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "apotheosis:armor_shred": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2,
+        "value": 2
+      }
+    },
+    "minecraft:generic.max_health": {
+      "enabled": true,
+      "min": {
+        "default": 1,
+        "value": 1
+      },
+      "max": {
+        "default": 1024,
+        "value": 1000000
+      }
+    },
+    "additionalentityattributes:lava_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "minecraft:horse.jump_strength": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2,
+        "value": 2
+      }
+    },
+    "minecraft:generic.knockback_resistance": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
       }
     }
   }
