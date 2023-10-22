@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+				{ "model": "biomesoplenty:block/lavender", "weight":1 },
+				{ "model": "biomesoplenty:block/lavender1", "weight":1 },
+				{ "model": "biomesoplenty:block/lavender2", "weight":1 }
+			]
+	}
+}

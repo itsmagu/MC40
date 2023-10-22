@@ -1,0 +1,7 @@
+{
+    "parent": "block/leaves_cross",
+    "textures": {
+        "all": "biomesoplenty:block/jacaranda_leaves",
+        "bushy": "biomesoplenty:block/jacaranda_leaves_bushy"
+    }
+}

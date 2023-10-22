@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+				{ "model": "biomesoplenty:block/toadstool", "weight":1 },
+				{ "model": "biomesoplenty:block/toadstool1", "weight":1 },
+				{ "model": "biomesoplenty:block/toadstool2", "weight":1 },
+				{ "model": "biomesoplenty:block/toadstool3", "weight":1 }
+			]
+	}
+}

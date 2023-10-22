@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+				{ "model": "biomesoplenty:block/desert_grass", "weight":1 },
+				{ "model": "biomesoplenty:block/desert_grass1", "weight":1 },
+				{ "model": "biomesoplenty:block/desert_grass2", "weight":1 }
+			]
+	}
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "": [
+				{ "model": "biomesoplenty:block/orange_cosmos", "weight":1 },
+				{ "model": "biomesoplenty:block/orange_cosmos1", "weight":1 }
+			]
+	}
+}

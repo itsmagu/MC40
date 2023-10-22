@@ -1,0 +1,7 @@
+{
+    "parent": "block/leaves_cross",
+    "textures": {
+        "all": "biomesoplenty:block/flowering_oak_leaves",
+        "bushy": "biomesoplenty:block/flowering_oak_leaves_bushy"
+    }
+}

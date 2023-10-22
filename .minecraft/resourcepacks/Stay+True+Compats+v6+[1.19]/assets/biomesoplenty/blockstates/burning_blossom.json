@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "": [
+				{ "model": "biomesoplenty:block/burning_blossom", "weight":2 },
+				{ "model": "biomesoplenty:block/burning_blossom1", "weight":1 }
+			]
+	}
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/leaves_cross",
+    "textures": {
+        "all": "biomesoplenty:block/mahogany_leaves",
+        "bushy": "biomesoplenty:block/mahogany_leaves_bushy"
+    }
+}

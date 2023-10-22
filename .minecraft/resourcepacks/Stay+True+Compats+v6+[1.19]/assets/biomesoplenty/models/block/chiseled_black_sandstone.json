@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "biomesoplenty:block/cut_black_sandstone_top",
+        "top": "biomesoplenty:block/cut_black_sandstone_top",
+        "side": "biomesoplenty:block/chiseled_black_sandstone"
+    }
+}
+

@@ -1,0 +1,7 @@
+{
+    "parent": "block/leaves_cross",
+    "textures": {
+        "all": "quark:block/yellow_blossom_leaves",
+        "bushy": "quark:block/yellow_blossom_leaves_bushy"
+    }
+}

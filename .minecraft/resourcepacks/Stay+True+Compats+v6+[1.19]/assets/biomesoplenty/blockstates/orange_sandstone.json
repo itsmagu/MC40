@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [ { "model": "biomesoplenty:block/orange_sandstone", "weight":1 }
+,{ "model": "biomesoplenty:block/orange_sandstone1", "weight":1 }
+,{ "model": "biomesoplenty:block/orange_sandstone2", "weight":1 }
+,{ "model": "biomesoplenty:block/orange_sandstone3", "weight":1 }
+
+ ]   }
+}

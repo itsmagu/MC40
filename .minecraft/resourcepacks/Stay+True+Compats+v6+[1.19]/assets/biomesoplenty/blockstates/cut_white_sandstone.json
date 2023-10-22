@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":    { "model": "biomesoplenty:block/cut_white_sandstone" },
+        "axis=z":     { "model": "biomesoplenty:block/cut_white_sandstone", "x": 90 },
+        "axis=x":     { "model": "biomesoplenty:block/cut_white_sandstone", "x": 90, "y": 90 }
+    }
+}

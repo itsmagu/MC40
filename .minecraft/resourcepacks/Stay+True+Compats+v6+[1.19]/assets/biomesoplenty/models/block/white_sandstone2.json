@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "biomesoplenty:block/white_sandstone2",
+        "top": "biomesoplenty:block/white_sandstone2",
+        "side": "biomesoplenty:block/white_sandstone2"
+    }
+}

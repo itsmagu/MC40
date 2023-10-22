@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "": [
+				{ "model": "biomesoplenty:block/pink_daffodil", "weight":1 },
+				{ "model": "biomesoplenty:block/pink_daffodil1", "weight":1 }
+			]
+	}
+}

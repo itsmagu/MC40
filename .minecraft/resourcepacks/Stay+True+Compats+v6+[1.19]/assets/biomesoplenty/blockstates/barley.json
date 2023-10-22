@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "half=lower": [ 
+			{ "model": "biomesoplenty:block/barley_bottom"}],
+        "half=upper": [ 
+			{ "model": "biomesoplenty:block/barley_top", "weight":2 },
+			{ "model": "biomesoplenty:block/barley_top1", "weight":2 },
+			{ "model": "biomesoplenty:block/barley_top2", "weight":1 }]
+    }
+}
+
