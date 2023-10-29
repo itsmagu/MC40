@@ -234,7 +234,7 @@
 	"Quick Armor Swapping" = true
 	"Item Sharing" = true
 	"Inventory Sorting" = false
-	"Hotbar Changer" = false
+	"Hotbar Changer" = true
 	"Expanded Item Interactions" = true
 	"Easy Transfering" = false
 	"Chests In Boats" = true
