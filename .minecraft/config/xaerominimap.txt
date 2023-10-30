@@ -8,9 +8,9 @@ debugEntityVariantIds:false
 radarHideInvisibleEntities:true
 allowInternetAccess:true
 #INGAME SETTINGS (DO NOT EDIT!)
-updateNotification:true
+updateNotification:false
 minimap:true
-caveMaps:2
+caveMaps:0
 caveZoom:1
 showWaypoints:true
 showIngameWaypoints:true
@@ -20,7 +20,7 @@ oldDeathpoints:true
 distance:1
 lockNorth:false
 zoom:0
-minimapSize:0
+minimapSize:90
 chunkGrid:-1
 slimeChunks:false
 mapSafeMode:false
@@ -74,7 +74,7 @@ lightOverlayType:0
 lightOverlayMaxLight:7
 lightOverlayMinLight:0
 lightOverlayColor:13
-uiScale:0
+uiScale:3
 bossHealthPushBox:1
 potionEffectPushBox:1
 minimapFrame:0
@@ -124,9 +124,9 @@ infoDisplay:highlights:true:15:-1
 infoDisplay:light_overlay_indicator:true:15:-1
 infoDisplay:manual_cave_mode_indicator:true:15:-1
 infoDisplay:custom_sub_world:true:15:-1
-interface:dummy:0:0:true:false:false:false
+interface:dummy:0:36:true:false:false:false
 interface:dummy:0:10000:true:false:false:false
 interface:dummy:0:0:false:false:true:false
 interface:dummy:0:36:true:false:false:false
-interface:gui.xaero_minimap:0:0:false:false:false:false
+interface:gui.xaero_minimap:-8:-8:false:false:false:false
 #WAYPOINTS HAVE BEEN MOVED TO /XaeroWaypoints

@@ -23,3 +23,15 @@ natives
 .minecraft/config/siege-machines-specs-3.toml.bak
 .minecraft/config/siege-machines-specs-4.toml.bak
 .minecraft/config/siege-machines-specs-5.toml.bak
+.minecraft/XaeroWaypoints
+.minecraft/XaeroWaypoints_*
+.minecraft/WailaErrorOutput.txt
+.minecraft/WailaErrorOutput.txt
+.minecraft/config/bettervillage_1.properties
+.minecraft/config/byg/backups/last_working_configs_backup.zip
+.minecraft/config/jei/ingredient-list-mod-sort-order.ini
+.minecraft/config/jei/recipe-category-sort-order.ini
+.minecraft/config/libraryferret_1.properties
+.minecraft/config/oculus.properties
+.minecraft/config/worldedit/worldedit.properties
+.minecraft/crash-reports
