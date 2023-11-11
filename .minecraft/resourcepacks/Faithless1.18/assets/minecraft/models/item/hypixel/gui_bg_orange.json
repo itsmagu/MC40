@@ -1,0 +1,6 @@
+{
+    "parent": "item/hypixel/gui_bg",
+	"textures": {
+		"1": "item/hypixel/orange_stained_glass_pane"
+	}
+}

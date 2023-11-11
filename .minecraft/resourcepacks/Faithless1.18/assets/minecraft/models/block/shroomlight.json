@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_all_glow",
+  "textures": {
+    "up": "block/shroomlight",
+    "down": "block/shroomlight",
+    "side": "block/shroomlight",
+    "front": "block/shroomlight",
+    "particle": "block/shroomlight"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stalwart_dungeons:blocks/igniter_back",
+    "up": "stalwart_dungeons:blocks/igniter_back",
+    "north": "stalwart_dungeons:blocks/nether_keeper_altar",
+    "east": "stalwart_dungeons:blocks/nether_keeper_altar",
+    "south": "stalwart_dungeons:blocks/nether_keeper_altar",
+    "west": "stalwart_dungeons:blocks/nether_keeper_altar",
+    "particle": "stalwart_dungeons:blocks/igniter_back"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/tnt", "weight": 1 },
+      { "model": "minecraft:block/tnt2", "weight": 4 }
+    ]
+  }
+}

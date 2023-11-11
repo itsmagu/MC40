@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "create_things_and_misc:block/card_reader_on"
+    },
+    "facing=east": {
+      "model": "create_things_and_misc:block/card_reader_on",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "create_things_and_misc:block/card_reader_on",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "create_things_and_misc:block/card_reader_on",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "create_things_and_misc:block/card_reader_on",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "create_things_and_misc:block/card_reader_on",
+      "x": 90
+    }
+  }
+}

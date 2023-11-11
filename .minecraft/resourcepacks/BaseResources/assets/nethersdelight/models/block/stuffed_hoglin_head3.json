@@ -1,0 +1,117 @@
+{
+	"parent": "block/block",
+	"ambientocclusion": false,
+	"texture_size": [96, 48],
+	"textures": {
+		"0": "nethersdelight:block/stuffed_hoglin_tray",
+		"1": "nethersdelight:block/stuffed_hoglin_block4",
+		"particle": "nethersdelight:block/stuffed_hoglin_tray"
+	},
+	"elements": [
+		{
+			"name": "01",
+			"from": [7, 6, 11],
+			"to": [7, 11, 16],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 9, 15.5]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 2], "texture": "#1"},
+				"east": {"uv": [11.5, 11.33333, 12.33333, 13.33333], "texture": "#1"},
+				"south": {"uv": [0, 0, 0, 2], "texture": "#1"},
+				"west": {"uv": [12.33333, 11.33333, 11.5, 13.33333], "texture": "#1"},
+				"up": {"uv": [0, 0, 0, 3], "texture": "#1"},
+				"down": {"uv": [0, 0, 0, 3], "texture": "#1"}
+			}
+		},
+		{
+			"name": "02",
+			"from": [9, 6, 11],
+			"to": [9, 11, 16],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 9, 15.5]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 2], "texture": "#1"},
+				"east": {"uv": [11.5, 11.33333, 12.33333, 13.33333], "texture": "#1"},
+				"south": {"uv": [0, 0, 0, 2], "texture": "#1"},
+				"west": {"uv": [12.33333, 11.33333, 11.5, 13.33333], "texture": "#1"},
+				"up": {"uv": [0, 0, 0, 3], "texture": "#1"},
+				"down": {"uv": [0, 0, 0, 3], "texture": "#1"}
+			}
+		},
+		{
+			"name": "05",
+			"from": [3, 10, 12],
+			"to": [3, 16, 16],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [13, 10.5, 20]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 2.33333], "texture": "#1"},
+				"east": {"uv": [13.5, 8.66667, 12.83333, 11], "texture": "#1"},
+				"south": {"uv": [0, 0, 0, 2.33333], "texture": "#1"},
+				"west": {"uv": [12.83333, 8.66667, 13.5, 11], "texture": "#1"},
+				"up": {"uv": [0, 0, 0, 1], "texture": "#1"},
+				"down": {"uv": [0, 0, 0, 1], "texture": "#1"}
+			}
+		},
+		{
+			"name": "fungus",
+			"from": [2, 4, 10],
+			"to": [14, 6, 16],
+			"faces": {
+				"north": {"uv": [14, 14.66667, 16, 15.33333], "texture": "#1"},
+				"east": {"uv": [15, 15.33333, 16, 16], "texture": "#1"},
+				"south": {"uv": [14, 14.66667, 16, 15.33333], "texture": "#1"},
+				"west": {"uv": [12.83333, 15.33333, 13.83333, 16], "texture": "#1"},
+				"up": {"uv": [14, 8.33333, 16, 10.33334], "texture": "#1"},
+				"down": {"uv": [14, 8.33333, 16, 10.33334], "texture": "#1"}
+			}
+		},
+		{
+			"name": "tray",
+			"from": [0, 0, 0],
+			"to": [16, 2, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 1, 16]},
+			"faces": {
+				"north": {"uv": [8, 0, 16, 1], "texture": "#0"},
+				"east": {"uv": [10, 0, 11, 8], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [8, 0, 16, 1], "texture": "#0"},
+				"west": {"uv": [10.5, 0, 11.5, 8], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [0, 0, 8, 8], "texture": "#0"},
+				"down": {"uv": [8, 8, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [1, 2, 9],
+			"to": [15, 9, 16],
+			"faces": {
+				"north": {"uv": [3.5, 13.66667, 5.83333, 16], "texture": "#1"},
+				"east": {"uv": [8.16667, 13.66667, 9.33333, 16], "texture": "#1"},
+				"south": {"uv": [3.5, 13.66667, 5.83333, 16], "texture": "#1", "cullface": "south"},
+				"west": {"uv": [0, 13.66667, 1.16667, 16], "texture": "#1"},
+				"up": {"uv": [12.66667, 0, 15, 2.33333], "texture": "#1"},
+				"down": {"uv": [2.33333, 11.33333, 4.66667, 13.66667], "texture": "#1"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "hoglin",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [
+				{
+					"name": "body",
+					"origin": [8, 8, 8],
+					"color": 0,
+					"children": []
+				},
+				{
+					"name": "rost",
+					"origin": [8, 8, 8],
+					"color": 0,
+					"children": [0, 1, 2]
+				},
+				3
+			]
+		},
+		4,
+		5
+	]
+}

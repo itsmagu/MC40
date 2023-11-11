@@ -1,0 +1,20 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/cocoa_stage2",
+		"cocoa": "block/cocoa_stage2"
+	},
+	"elements": [
+		{
+			"from": [4, 3, 7],
+			"to": [12, 12, 16],
+			"faces": {
+				"north": {"uv": [8, 4, 16, 13], "texture": "#cocoa"},
+				"east": {"uv": [8, 4, 16, 13], "texture": "#cocoa"},
+				"west": {"uv": [8, 4, 16, 13], "texture": "#cocoa"},
+				"up": {"uv": [0, 0, 8, 8], "texture": "#cocoa"},
+				"down": {"uv": [0, 0, 8, 8], "texture": "#cocoa"}
+			}
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/dead_bush",           "weight": 30 },
+      { "model": "minecraft:block/desert_bush",         "weight": 12 },
+      { "model": "minecraft:block/desert_dead_grass",   "weight": 13 },
+      { "model": "minecraft:block/desert_grass",        "weight": 12 },
+      { "model": "minecraft:block/desert_tumbleweed",   "weight": 14 },
+	  
+      { "model": "minecraft:block/dead_bush2",          "weight": 26 },
+	  
+      { "model": "minecraft:block/dead_bush_skull",     "weight": 1 }
+    ]
+  }
+}

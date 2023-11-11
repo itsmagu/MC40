@@ -1,0 +1,7 @@
+{
+    "parent": "block/template_pane_cross",
+	"textures": {
+		"0": "block/black_stained_glass",
+		"1": "block/black_stained_glass_pane_top"
+	}
+}

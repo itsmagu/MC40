@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom",
+  "textures": {
+    "bottom": "create_things_and_misc:blocks/brass_casing_door_down",
+    "top": "create_things_and_misc:blocks/brass_casing_door_top"
+  }
+}

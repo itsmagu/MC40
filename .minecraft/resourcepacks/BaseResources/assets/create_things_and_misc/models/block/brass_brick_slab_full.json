@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "create_things_and_misc:blocks/brass_bricks",
+    "top": "create_things_and_misc:blocks/brass_bricks",
+    "side": "create_things_and_misc:blocks/brass_bricks"
+  }
+}

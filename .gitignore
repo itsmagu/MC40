@@ -35,3 +35,7 @@ natives
 .minecraft/config/oculus.properties
 .minecraft/config/worldedit/worldedit.properties
 .minecraft/crash-reports
+.minecraft/_mods
+.minecraft/_remod
+.minecraft/backups
+.minecraft/datapacks

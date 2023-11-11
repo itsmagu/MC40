@@ -1,0 +1,10 @@
+{
+  "parent": "stalwart_dungeons:custom/pusher",
+  "textures": {
+    "all": "stalwart_dungeons:blocks/soul_bricks_side",
+    "particle": "stalwart_dungeons:blocks/soul_bricks_side",
+    "0": "stalwart_dungeons:blocks/pusher",
+    "1": "stalwart_dungeons:blocks/soul_bricks_side",
+    "2": "stalwart_dungeons:blocks/pusher_stone"
+  }
+}

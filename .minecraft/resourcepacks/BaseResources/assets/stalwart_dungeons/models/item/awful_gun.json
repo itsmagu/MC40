@@ -1,0 +1,7 @@
+{
+  "parent": "stalwart_dungeons:custom/awfulgun",
+  "textures": {
+    "0": "stalwart_dungeons:blocks/awful_gun",
+    "particle": "stalwart_dungeons:items/awful_gun"
+  }
+}

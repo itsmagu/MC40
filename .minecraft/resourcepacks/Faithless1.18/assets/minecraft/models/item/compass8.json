@@ -1,0 +1,7 @@
+{
+    "parent": "item/compass",
+    "textures": {
+        "layer0": "item/compass/8",
+		"2": "item/compass/model/3"
+    }
+}

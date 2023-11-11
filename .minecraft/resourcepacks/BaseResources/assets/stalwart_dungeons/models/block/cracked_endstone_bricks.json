@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "stalwart_dungeons:blocks/cracked_end_stone_bricks",
+    "particle": "stalwart_dungeons:blocks/cracked_end_stone_bricks"
+  }
+}

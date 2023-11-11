@@ -1,0 +1,10 @@
+{
+	"parent": "block/flower_pot_cross_0",
+	"textures": {
+		"vines": "block/flower_pot_crimson_fungus",
+		"soil": "block/crimson_nylium",
+		"plant": "block/crimson_fungus",
+		"flowerpot": "block/flower_pot_nether",
+		"flowerpot2": "block/flower_pot_nether_hanging"
+	}
+}

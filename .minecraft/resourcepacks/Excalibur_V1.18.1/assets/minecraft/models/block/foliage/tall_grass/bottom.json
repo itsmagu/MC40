@@ -1,0 +1,7 @@
+{
+	"note": "BLANK",	
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/tall_grass_bottom"
+	}
+}

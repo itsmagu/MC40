@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "block/note_block/hat_5",
+    "side": "block/note_block"
+  }
+}

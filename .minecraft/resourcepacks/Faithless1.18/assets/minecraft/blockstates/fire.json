@@ -1,0 +1,87 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "up": "false",
+        "west": "false",
+        "east": "false",
+        "south": "false",
+        "north": "false"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_floor0"
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "north": "true"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0"
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "east": "true"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0",
+          "y": 90
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "south": "true"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0",
+          "y": 180
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "west": "true"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "up": "true"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_up0"
+        }
+      ]
+    }
+  ]
+}

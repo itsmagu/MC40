@@ -1,0 +1,23 @@
+{
+	"ambientocclusion": false,
+	"parent": "block/thin_block",
+	"textures": {
+		"2": "block/snow_carpet",
+		"particle": "block/snow",
+		"wool": "block/snow"
+	},
+	"elements": [
+		{
+			"from": [-0.02, -2, -0.02],
+			"to": [16.02, 2, 16.02],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#wool"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#wool", "cullface": "down"},
+				"north": {"uv": [0, 0, 16, 4], "texture": "#2", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 4], "texture": "#2", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 4], "texture": "#2", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 4], "texture": "#2", "cullface": "west"}
+			}
+		}
+	]
+}

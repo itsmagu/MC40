@@ -1,0 +1,10 @@
+{
+	"parent": "block/flower_pot_cross_0",
+	"textures": {
+		"vines": "block/flower_pot_wither_rose",
+		"soil": "block/farmland",
+		"plant": "block/wither_rose",
+		"flowerpot": "block/flower_pot_nether",
+		"flowerpot2": "block/flower_pot_nether_hanging"
+	}
+}

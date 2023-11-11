@@ -1,0 +1,10 @@
+{
+  "parent": "stalwart_dungeons:custom/teleporter",
+  "textures": {
+    "all": "stalwart_dungeons:blocks/teleporter_top",
+    "particle": "stalwart_dungeons:blocks/teleporter_top",
+    "0": "stalwart_dungeons:blocks/teleporter_core",
+    "1": "stalwart_dungeons:blocks/teleporter_side",
+    "2": "stalwart_dungeons:blocks/teleporter_top"
+  }
+}

@@ -1,0 +1,53 @@
+{
+	"textures": {
+		"particle": "block/flowering_azalea_leaves",
+		"middle": "block/flowering_azalea_leaves",
+		"tips": "block/flowering_azalea_leaves_tips"
+	},
+	"elements": [
+		{
+			"name": "leaves",
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#middle", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#middle", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#middle", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#middle", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#middle", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#middle", "cullface": "down"}
+			}
+		},
+		{
+			"name": "edgeNS",
+			"from": [-0.025, -7, 0.025],
+			"to": [15.925, 1, 15.975],
+			"faces": {
+				"north": {"uv": [4, 12, 12, 16], "texture": "#tips"},
+				"east": {"uv": [4, 12, 12, 16], "texture": "#tips"},
+				"south": {"uv": [4, 12, 12, 16], "texture": "#tips"},
+				"west": {"uv": [4, 12, 12, 16], "texture": "#tips"}
+			}
+		},
+		{
+			"name": "crossEW",
+			"from": [7.5, -7, -9],
+			"to": [7.5, 25, 25],
+			"rotation": {"angle": 45, "axis": "y", "origin": [7, 8, 7]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#tips"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#tips"}
+			}
+		},
+		{
+			"name": "crossNS",
+			"from": [-9, -7, 7.5],
+			"to": [25, 25, 7.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#tips"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#tips"}
+			}
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+  "portable_whistle": {
+    "subtitle": "subtitles.portable_whistle",
+    "sounds": [
+      {
+        "name": "create_things_and_misc:whstmech_sifflet_en_plastique_2_id_1105_ls",
+        "stream": false
+      }
+    ]
+  },
+  "netherite_whistle": {
+    "subtitle": "subtitles.netherite_whistle",
+    "sounds": [
+      {
+        "name": "create_things_and_misc:horncele_langue_de_belle_mere_2_id_1554_ls",
+        "stream": false
+      }
+    ]
+  },
+  "announcement_sound": {
+    "subtitle": "subtitles.announcement_sound",
+    "sounds": [
+      {
+        "name": "create_things_and_misc:announcement-sound-effect",
+        "stream": false
+      }
+    ]
+  },
+  "klaxon": {
+    "subtitle": "subtitles.klaxon",
+    "sounds": [
+      {
+        "name": "create_things_and_misc:klaxon",
+        "stream": false
+      }
+    ]
+  }
+}

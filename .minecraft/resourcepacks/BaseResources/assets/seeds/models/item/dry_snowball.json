@@ -1,0 +1,7 @@
+{
+  "parent": "seeds:custom/dry_snowball",
+  "textures": {
+    "0": "seeds:blocks/dry_snowball",
+    "particle": "seeds:items/dry_snowball"
+  }
+}

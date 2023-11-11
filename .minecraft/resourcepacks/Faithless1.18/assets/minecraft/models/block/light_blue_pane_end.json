@@ -1,0 +1,7 @@
+{
+    "parent": "block/template_pane_end",
+	"textures": {
+		"0": "block/light_blue_stained_glass",
+		"1": "block/light_blue_stained_glass_pane_top"
+	}
+}

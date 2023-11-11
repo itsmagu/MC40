@@ -381,7 +381,7 @@
 
 [tweaks]
 	"Villagers Follow Emeralds" = true
-	"Vexes Die With Their Masters" = true
+	"Vexes Die With Their Masters" = false
 	"Utility Recipes" = true
 	"Snow Golem Player Heads" = true
 	"Simple Harvest" = true
@@ -1428,7 +1428,7 @@
 					"Is Blacklist" = true
 
 [client]
-	"Variant Animal Textures" = true
+	"Variant Animal Textures" = false
 	"Uses For Curses" = true
 	"Usage Ticker" = false
 	"Soul Candles" = true

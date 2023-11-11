@@ -1,0 +1,54 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"1": "block/flower/red_tulip",
+		"2": "block/flower/red_tulip_stem",
+		"particle": "block/air"
+	},
+	"elements": [
+		{
+			"from": [0.8, 0, 8],
+			"to": [15.2, 16, 8],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
+		},
+		{
+			"from": [8, 0, 0.8],
+			"to": [8, 16, 15.2],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
+		},
+		{
+			"from": [6.5, 9, 6.5],
+			"to": [9.5, 13, 9.5],
+			"shade": false,
+			"faces": {
+				"north": {"uv": [3, 3, 6, 7], "texture": "#1"},
+				"east": {"uv": [6, 3, 9, 7], "texture": "#1"},
+				"south": {"uv": [9, 3, 12, 7], "texture": "#1"},
+				"west": {"uv": [0, 3, 3, 7], "texture": "#1"},
+				"down": {"uv": [6, 0, 9, 3], "texture": "#1"}
+			}
+		},
+		{
+			"from": [9.5, 9, 6.5],
+			"to": [6.5, 13, 9.5],
+			"shade": false,
+			"faces": {
+				"north": {"uv": [3, 10, 6, 14], "texture": "#1"},
+				"east": {"uv": [6, 10, 9, 14], "texture": "#1"},
+				"south": {"uv": [9, 10, 12, 14], "texture": "#1"},
+				"west": {"uv": [0, 10, 3, 14], "texture": "#1"},
+				"down": {"uv": [6, 7, 9, 10], "texture": "#1"}
+			}
+		}
+	]
+}

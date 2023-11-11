@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_all_glow",
+  "textures": {
+    "up": "block/redstone_lamp_on",
+    "down": "block/redstone_lamp_on",
+    "side": "block/redstone_lamp_on",
+    "front": "block/redstone_lamp_on",
+    "particle": "block/redstone_lamp_on"
+  }
+}

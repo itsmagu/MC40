@@ -1,0 +1,7 @@
+{
+  "parent": "seeds:custom/watering_can",
+  "textures": {
+    "0": "seeds:blocks/copper_wantering_can",
+    "particle": "seeds:items/copper_wantering_can"
+  }
+}

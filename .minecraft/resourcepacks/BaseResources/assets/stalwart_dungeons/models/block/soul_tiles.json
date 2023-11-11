@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "stalwart_dungeons:blocks/soul_tiles_top",
+    "particle": "stalwart_dungeons:blocks/soul_tiles_top"
+  }
+}

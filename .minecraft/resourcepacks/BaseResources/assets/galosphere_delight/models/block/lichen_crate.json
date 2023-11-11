@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "galosphere_delight:blocks/lichen_crate_bottom",
+    "up": "galosphere_delight:blocks/lichen_crate_top",
+    "north": "galosphere_delight:blocks/lichen_crate_side",
+    "east": "galosphere_delight:blocks/lichen_crate_side",
+    "south": "galosphere_delight:blocks/lichen_crate_side",
+    "west": "galosphere_delight:blocks/lichen_crate_side",
+    "particle": "galosphere_delight:blocks/lichen_crate_bottom"
+  }
+}

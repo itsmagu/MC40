@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "seeds:block/gaze_detector_on"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "create_things_and_misc:custom/blazecanon",
+  "textures": {
+    "1": "create_things_and_misc:blocks/canon",
+    "2": "create_things_and_misc:blocks/bgblock",
+    "particle": "create_things_and_misc:items/brass_knife"
+  }
+}

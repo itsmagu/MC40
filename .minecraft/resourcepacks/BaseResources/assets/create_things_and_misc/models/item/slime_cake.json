@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "create_things_and_misc:items/slime_cake"
+  }
+}

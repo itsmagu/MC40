@@ -1,0 +1,52 @@
+{
+	"parent": "item/end_portal_frame",
+	"ambientocclusion": false,
+	"texture_size": [32, 16],
+	"textures": {
+		"0": "item/oak_sign",
+		"1": "block/entity/signs/oak",
+		"particle": "item/oak_sign"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 6],
+			"to": [10, 0, 10],
+			"shade": false,
+			"faces": {
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 0, 7],
+			"to": [9, 18, 9],
+			"faces": {
+				"north": {"uv": [14.5, 7, 15, 16], "texture": "#1"},
+				"east": {"uv": [14, 7, 14.5, 16], "texture": "#1"},
+				"south": {"uv": [15.5, 7, 16, 16], "texture": "#1"},
+				"west": {"uv": [15, 7, 15.5, 16], "texture": "#1"},
+				"up": {"uv": [14.5, 6, 15, 7], "texture": "#1"}
+			}
+		},
+		{
+			"from": [0, 8, 6],
+			"to": [16, 17, 8],
+			"faces": {
+				"north": {"uv": [2.5, 8, 6.5, 12.5], "texture": "#1"},
+				"east": {"uv": [2, 8.05, 2.5, 12.55], "texture": "#1"},
+				"south": {"uv": [7, 8, 11, 12.5], "texture": "#1"},
+				"west": {"uv": [6.5, 8, 7, 12.5], "texture": "#1"},
+				"up": {"uv": [2.5, 7, 6.5, 8], "texture": "#1"}
+			}
+		},
+		{
+			"from": [0, 8, 8],
+			"to": [16, 17, 6],
+			"faces": {
+				"north": {"uv": [6.5, 7, 6.75, 7.5], "texture": "#1"},
+				"east": {"uv": [6.5, 7, 6.75, 7.5], "texture": "#1"},
+				"south": {"uv": [6.5, 7, 6.75, 7.5], "texture": "#1"},
+				"west": {"uv": [6.5, 7, 6.75, 7.5], "texture": "#1"}
+			}
+		}
+	]
+}

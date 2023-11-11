@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "stalwart_dungeons:blocks/soul_tiles_top",
+    "top": "stalwart_dungeons:blocks/soul_tiles_top",
+    "side": "stalwart_dungeons:blocks/soul_tiles_top"
+  }
+}

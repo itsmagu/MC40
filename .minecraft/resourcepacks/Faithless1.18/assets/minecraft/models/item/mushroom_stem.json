@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_column_tilt",
+  "textures": {
+    "top": "block/mushroom_stem_inside_nesw",
+    "bottom": "block/mushroom_stem_inside_nesw",
+    "side": "block/mushroom_stem",
+    "particle": "block/mushroom_stem"
+  }
+}

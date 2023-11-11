@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "seeds:blocks/dry_ice",
+    "up": "seeds:blocks/dry_ice",
+    "north": "seeds:blocks/dry_ice",
+    "east": "seeds:blocks/dry_ice",
+    "south": "seeds:blocks/dry_ice",
+    "west": "seeds:blocks/dry_ice",
+    "particle": "seeds:blocks/dry_ice"
+  }
+}

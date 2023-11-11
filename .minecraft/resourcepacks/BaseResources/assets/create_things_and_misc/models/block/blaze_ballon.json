@@ -1,0 +1,8 @@
+{
+  "parent": "create_things_and_misc:custom/blazeblock",
+  "textures": {
+    "all": "create_things_and_misc:blocks/bgblock",
+    "particle": "create_things_and_misc:blocks/bgblock",
+    "0": "create_things_and_misc:blocks/3blazepet"
+  }
+}

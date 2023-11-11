@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "stalwart_dungeons:block/transient_block_open"
+    }
+  }
+}

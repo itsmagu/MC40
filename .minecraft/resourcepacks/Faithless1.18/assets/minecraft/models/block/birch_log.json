@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_column_tilt",
+  "textures": {
+    "top": "block/birch_log_top",
+    "bottom": "block/birch_log_top",
+    "side": "block/birch_log",
+    "particle": "block/oak_log"
+  }
+}

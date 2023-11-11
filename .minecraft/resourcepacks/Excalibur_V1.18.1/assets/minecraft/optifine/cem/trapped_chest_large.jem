@@ -1,0 +1,19 @@
+{
+  "models": 
+  [
+    {
+      "model": "trapped_chest_base_large.jpm",
+      "part": "base_left", 
+	  "attach": false,
+      "translate": [ 16, 0, 16],
+      "rotate": [180, 0, 0]
+    },
+    {
+      "model": "chest_blank",
+      "part": "base_right", 
+	  "attach": false,
+      "translate": [ 0, 0, 16],
+      "rotate": [180, 0, 0]	  
+    }	
+  ]
+}

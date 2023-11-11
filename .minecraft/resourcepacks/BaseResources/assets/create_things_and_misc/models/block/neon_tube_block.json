@@ -1,0 +1,8 @@
+{
+  "parent": "create_things_and_misc:custom/tube",
+  "textures": {
+    "all": "create_things_and_misc:blocks/neon_tube",
+    "particle": "create_things_and_misc:blocks/anvil",
+    "0": "create_things_and_misc:blocks/neon_tube"
+  }
+}

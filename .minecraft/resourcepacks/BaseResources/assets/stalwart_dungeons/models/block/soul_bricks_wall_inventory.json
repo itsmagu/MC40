@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "stalwart_dungeons:blocks/soul_bricks",
+    "particle": "stalwart_dungeons:blocks/soul_bricks"
+  }
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "item/writable_book",
+	"ambientocclusion": false,
+	"textures": {
+		"1": "item/knowledge_book_model"
+	}
+}

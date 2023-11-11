@@ -1,0 +1,11 @@
+{
+	"texture": "chest_large",
+	"textureSize": [128, 64],
+	"boxes": [
+		{
+			"coordinates": [3, -5, 3, 10, 4, 10],
+			"uvUp": [16, 45, 41, 54],
+			"uvDown": [46, 21, 72, 31]
+		}
+	]
+}

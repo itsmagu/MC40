@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "stalwart_dungeons:blocks/tungsten_ore",
+    "particle": "stalwart_dungeons:blocks/tungsten_ore"
+  }
+}

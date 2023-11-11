@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "stalwart_dungeons:blocks/sculted_end_stone",
+    "particle": "stalwart_dungeons:blocks/sculted_end_stone"
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "parent": "block/beacon",
+  "gui_light": "front"
+}

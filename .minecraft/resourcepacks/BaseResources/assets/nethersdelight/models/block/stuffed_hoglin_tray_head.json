@@ -1,0 +1,47 @@
+{
+	"parent": "block/block",
+	"ambientocclusion": false,
+	"texture_size": [96, 48],
+	"textures": {
+		"0": "nethersdelight:block/stuffed_hoglin_tray",
+		"particle": "nethersdelight:block/stuffed_hoglin_tray"
+	},
+	"elements": [
+		{
+			"name": "tray",
+			"from": [0, 0, 0],
+			"to": [16, 2, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 1, 16]},
+			"faces": {
+				"north": {"uv": [8, 0, 16, 1], "texture": "#0"},
+				"east": {"uv": [10, 0, 11, 8], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [8, 0, 16, 1], "texture": "#0"},
+				"west": {"uv": [10.5, 0, 11.5, 8], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [0, 0, 8, 8], "texture": "#0"},
+				"down": {"uv": [8, 8, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "hoglin",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [
+				{
+					"name": "body",
+					"origin": [8, 8, 8],
+					"color": 0,
+					"children": []
+				},
+				{
+					"name": "rost",
+					"origin": [8, 8, 8],
+					"color": 0,
+					"children": []
+				}
+			]
+		},
+		0
+	]
+}

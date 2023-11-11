@@ -1,0 +1,12 @@
+{
+  "parent": "create_things_and_misc:custom/sticker",
+  "textures": {
+    "all": "create_things_and_misc:blocks/brass_sticker_side",
+    "particle": "create_things_and_misc:blocks/slime_still",
+    "0": "create_things_and_misc:blocks/brass_tiles",
+    "1": "create_things_and_misc:blocks/piston_inner",
+    "2": "create_things_and_misc:blocks/piston_side",
+    "3": "create_things_and_misc:blocks/sticker",
+    "4": "create_things_and_misc:blocks/brass_sticker_side"
+  }
+}

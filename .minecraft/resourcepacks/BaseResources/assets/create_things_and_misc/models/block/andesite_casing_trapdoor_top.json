@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_orientable_trapdoor_top",
+  "textures": {
+    "texture": "create_things_and_misc:blocks/andesite_casing_trapdoor",
+    "particle": "create_things_and_misc:blocks/andesite_casing_trapdoor"
+  }
+}

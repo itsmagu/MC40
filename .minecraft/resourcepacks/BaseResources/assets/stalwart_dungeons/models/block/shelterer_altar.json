@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stalwart_dungeons:blocks/sculted_end_stone",
+    "up": "stalwart_dungeons:blocks/sculted_end_stone",
+    "north": "stalwart_dungeons:blocks/shelterer_altar",
+    "east": "stalwart_dungeons:blocks/shelterer_altar",
+    "south": "stalwart_dungeons:blocks/shelterer_altar",
+    "west": "stalwart_dungeons:blocks/shelterer_altar",
+    "particle": "stalwart_dungeons:blocks/sculted_end_stone"
+  }
+}

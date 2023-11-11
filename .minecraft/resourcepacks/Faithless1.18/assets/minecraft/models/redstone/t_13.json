@@ -1,0 +1,6 @@
+{
+    "parent": "redstone/redstone_t",
+	"textures": {
+		"wire": "block/redstone/power_13"
+	}
+}

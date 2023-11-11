@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_all_glow",
+  "textures": {
+    "up": "block/sea_lantern",
+    "down": "block/sea_lantern",
+    "side": "block/sea_lantern",
+    "front": "block/sea_lantern",
+    "particle": "block/sea_lantern"
+  }
+}

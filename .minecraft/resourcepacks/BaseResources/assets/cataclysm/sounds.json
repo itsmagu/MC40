@@ -1,0 +1,359 @@
+{
+  "golemhurt": {
+    "subtitle": "golemhurt.sub",
+    "sounds": [
+      {
+        "name": "cataclysm:entity/golemhurt"
+      }
+    ]
+  },
+  "golemdeath": {
+    "subtitle": "golemdeath.sub",
+    "sounds": [
+      {
+        "name": "cataclysm:entity/golemdeath"
+      }
+    ]
+  },
+  "enderguardianhurt": {
+    "subtitle": "enderguardianhurt.sub",
+    "sounds": [
+      {
+        "name": "cataclysm:entity/golemhurt"
+      }
+    ]
+  },
+  "enderguardiandeath": {
+    "subtitle": "enderguardiandeath.sub",
+    "sounds": [
+      {
+        "name": "cataclysm:entity/golemdeath"
+      }
+    ]
+  },
+  "voidrunerising": {
+    "subtitle": "voidrunerising.sub",
+    "sounds": [
+      {
+        "name": "cataclysm:entity/void_rune_rising"
+      }
+    ]
+  },
+  "golemattack": {
+    "subtitle": "golemattack.sub",
+    "sounds": [
+      {
+        "name": "cataclysm:entity/golemattack"
+      }
+    ]
+  },
+  "enderguardianattack": {
+    "subtitle": "enderguardianattack.sub",
+    "sounds": [
+      {
+        "name": "cataclysm:entity/ender_guardian_fist_attack"
+      }
+    ]
+  },
+  "monstrositydeath": {
+    "subtitle": "monstrositydeath.sub",
+    "sounds": [
+      {
+        "name": "cataclysm:entity/monstrositydeath"
+      }
+    ]
+  },
+  "monstrositygrowl": {
+    "subtitle": "monstrositygrowl.sub",
+    "sounds": [
+      {
+        "name": "cataclysm:entity/monstrositygrowl"
+      }
+    ]
+  },
+  "monstrosityawaken": {
+    "subtitle": "monstrosityawaken.sub",
+    "sounds": [
+      {
+        "name": "cataclysm:entity/monstrosityawaken"
+      }
+    ]
+  },
+  "monstrosityshoot": {
+    "subtitle": "monstrosityshoot.sub",
+    "sounds": [
+      {
+        "name": "cataclysm:entity/monstrosityshoot"
+      }
+    ]
+  },
+  "monstrositystep": {
+    "subtitle": "monstrositystep.sub",
+    "sounds": [
+      {
+        "name": "cataclysm:entity/monstrositystep"
+      }
+    ]
+  },
+  "swingattack": {
+    "subtitle": "swingattack.sub",
+    "sounds": [
+      {
+        "name": "cataclysm:entity/attack_swing"
+      }
+    ]
+  },
+  "strongswingattack": {
+    "subtitle": "strongswingattack.sub",
+    "sounds": [
+      {
+        "name": "cataclysm:entity/strongattack_swing"
+      },
+      {
+        "name": "cataclysm:entity/strongattack_swing2"
+      }
+    ]
+  },
+  "monstrosityhurt": {
+    "subtitle": "monstrosityhurt.sub",
+    "sounds": [
+      {
+        "name": "cataclysm:entity/monstrosityhurt1"
+      },
+      {
+        "name": "cataclysm:entity/monstrosityhurt2"
+      },
+      {
+        "name": "cataclysm:entity/monstrosityhurt3"
+      }
+    ]
+  },
+  "ignis_shield_break": {
+    "subtitle": "ignisshieldbreak.sub",
+    "sounds": [
+      {
+        "name": "cataclysm:entity/ignis_shield01"
+      },
+      {
+        "name": "cataclysm:entity/ignis_shield02"
+      },
+      {
+        "name": "cataclysm:entity/ignis_shield03"
+      }
+    ]
+  },
+  "ignis_impact": {
+    "subtitle": "ignisimpact.sub",
+    "sounds": [
+      {
+        "name": "cataclysm:entity/ignis_impact"
+      },
+      {
+        "name": "cataclysm:entity/ignis_impact2"
+      },
+      {
+        "name": "cataclysm:entity/ignis_impact3"
+      }
+    ]
+  },
+  "ignis_armor_break": {
+    "subtitle": "ignis_armor_break.sub",
+    "sounds": [
+      {
+        "name": "cataclysm:entity/ignis_impact"
+      },
+      {
+        "name": "cataclysm:entity/ignis_impact2"
+      },
+      {
+        "name": "cataclysm:entity/ignis_impact3"
+      }
+    ]
+  },
+  "ignis_hurt": {
+    "subtitle": "ignis_hurt.sub",
+    "sounds": [
+      {
+        "name": "cataclysm:entity/ignis_hurt",
+        "volume": 1.0, "pitch": 0.5
+      },
+      {
+        "name": "cataclysm:entity/ignis_hurt2",
+        "volume": 1.0, "pitch": 0.5
+      },
+      {
+        "name": "cataclysm:entity/ignis_hurt3",
+        "volume": 1.0, "pitch": 0.5
+      },
+      {
+        "name": "cataclysm:entity/ignis_hurt4",
+        "volume": 1.0, "pitch": 0.5
+      }
+    ]
+  },
+  "ignis_poke": {
+    "subtitle": "ignis_poke.sub",
+    "sounds": [
+      {
+        "name": "cataclysm:entity/ignis_poke"
+      },
+      {
+        "name": "cataclysm:entity/ignis_poke2"
+      },
+      {
+        "name": "cataclysm:entity/ignis_poke3"
+      },
+      {
+        "name": "cataclysm:entity/ignis_poke4"
+      }
+    ]
+  },
+  "ignis_earthquake": {
+    "subtitle": "ignis_earthquake.sub",
+    "sounds": [
+      {
+        "name": "cataclysm:entity/ignis_earthquake"
+      }
+    ]
+  },
+  "ignis_death": {
+    "subtitle": "ignis_death.sub",
+    "sounds": [
+      {
+        "name": "cataclysm:entity/ignis_death",
+        "volume": 1.0, "pitch": 0.8
+      }
+
+    ]
+  },
+  "monstrosityland": {
+    "subtitle": "monstrosityland.sub",
+    "sounds": [
+      {
+        "name": "cataclysm:entity/monstrosityland"
+      }
+    ]
+  },
+  "ignis_ambient": {
+    "subtitle": "ignis_ambient.sub",
+    "sounds": [
+      {
+        "name": "cataclysm:entity/ignis_ambient"
+      }
+    ]
+  },
+  "flamethrower": {
+    "subtitle": "flamethrower.sub",
+    "sounds": [
+      "mob/ghast/fireball4"
+      ]
+  },
+  "hammertime": {
+    "subtitle": "hammertime.sub",
+    "sounds": [
+      "mob/irongolem/repair"
+    ]
+  },
+  "endermaptera_ambient": {
+    "subtitle": "endermaptera_ambient.sub",
+    "sounds": [
+       "mob/spider/say1", "mob/spider/say2", "mob/spider/say3", "mob/spider/say4"
+    ]
+  },
+  "endermaptera_hurt": {
+    "subtitle": "endermaptera_hurt.sub",
+    "sounds": [
+      "mob/spider/say1", "mob/spider/say2", "mob/spider/say3", "mob/spider/say4"
+    ]
+  },
+  "endermaptera_step": {
+    "subtitle": "endermaptera_step.sub",
+    "sounds": [
+      "mob/spider/step1", "mob/spider/step2",  "mob/spider/step3", "mob/spider/step4"
+    ]
+  },
+  "endermaptera_death": {
+    "subtitle": "endermaptera_death.sub",
+    "sounds": [
+      "mob/spider/death"
+    ]
+  },
+  "flame_burst": {
+    "subtitle": "flame_burst.sub",
+    "sounds": [
+      {
+        "name": "cataclysm:entity/flame_burst"
+      }
+    ]
+  },
+  "sword_stomp": {
+    "subtitle": "sword_stomp.sub",
+    "sounds": [
+      {
+        "name": "cataclysm:entity/sword_stomp"
+      }
+    ]
+  },
+  "monstrosity_music": {
+    "subtitle": "monstrosity_music.sub",
+    "sounds": [
+      {
+        "name": "cataclysm:music_disc/monstrosity_theme"
+      }
+    ]
+  },
+  "enderguardian_music": {
+    "subtitle": "enderguardian_music.sub",
+    "sounds": [
+      {
+        "name": "cataclysm:music_disc/enderguardian_theme"
+      }
+    ]
+  },
+  "ignis_music": {
+    "subtitle": "ignis_music.sub",
+    "sounds": [
+      {
+        "name": "cataclysm:music_disc/ignis_theme"
+      }
+    ]
+  },
+  "revenant_breath": {
+    "subtitle": "revenant_breath.sub",
+    "sounds": [
+      {
+        "name": "cataclysm:entity/revenant_breath"
+      }
+    ]
+  },
+  "revenant_death": {
+    "subtitle": "revenant_death.sub",
+    "sounds": [
+      {
+        "name": "cataclysm:entity/revenant_death"
+      }
+    ]
+  },
+  "revenant_idle": {
+    "subtitle": "revenant_idle.sub",
+    "sounds": [
+      {
+        "name": "cataclysm:entity/revenant_idle"
+      }
+    ]
+  },
+  "revenant_hurt": {
+    "subtitle": "revenant_hurt.sub",
+    "sounds": [
+      {
+        "name": "cataclysm:entity/revenant_hurt1"
+      },
+      {
+        "name": "cataclysm:entity/revenant_hurt2"
+      },
+      {
+        "name": "cataclysm:entity/revenant_hurt3"
+      }
+    ]
+  }
+}

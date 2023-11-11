@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stalwart_dungeons:blocks/spore_vaporizer",
+    "up": "stalwart_dungeons:blocks/spore_vaporizer",
+    "north": "stalwart_dungeons:blocks/spore_vaporizer_front",
+    "east": "stalwart_dungeons:blocks/spore_vaporizer",
+    "south": "stalwart_dungeons:blocks/spore_vaporizer_front",
+    "west": "stalwart_dungeons:blocks/spore_vaporizer",
+    "particle": "stalwart_dungeons:blocks/spore_vaporizer"
+  }
+}

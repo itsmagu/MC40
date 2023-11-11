@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top_rh",
+  "textures": {
+    "bottom": "create_things_and_misc:blocks/andesite_casing_door_down",
+    "top": "create_things_and_misc:blocks/andesite_casing_door_up"
+  }
+}

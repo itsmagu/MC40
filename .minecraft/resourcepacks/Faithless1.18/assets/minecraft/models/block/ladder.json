@@ -1,0 +1,37 @@
+{
+	"parent": "item/rail",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/air",
+		"texture": "block/ladder"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 14],
+			"to": [14, 16, 15.9],
+			"faces": {
+				"north": {"uv": [1, 0, 7, 16], "texture": "#texture"},
+				"east": {"uv": [1, 0, 2, 16], "texture": "#texture"},
+				"south": {"uv": [1, 0, 7, 16], "texture": "#texture", "cullface": "south"},
+				"west": {"uv": [6, 0, 7, 16], "texture": "#texture"},
+				"up": {"uv": [1, 0, 7, 2], "texture": "#texture", "cullface": "up"}
+			}
+		},
+		{
+			"from": [12, 0, 14],
+			"to": [4, 16, 15.9],
+			"faces": {
+				"east": {"uv": [14, 0, 15, 16], "texture": "#texture"},
+				"west": {"uv": [9, 0, 10, 16], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [1, 0, 14.9],
+			"to": [15, 16, 14.9],
+			"faces": {
+				"north": {"uv": [8.5, 0, 15.5, 16], "texture": "#texture"},
+				"south": {"uv": [8.5, 0, 15.5, 16], "texture": "#texture", "cullface": "south"}
+			}
+		}
+	]
+}

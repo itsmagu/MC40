@@ -1,0 +1,11 @@
+{
+  "parent": "seeds:custom/trash_level1",
+  "textures": {
+    "all": "seeds:blocks/trash_face",
+    "particle": "seeds:blocks/trash_face",
+    "0": "seeds:blocks/trash_top",
+    "1": "seeds:blocks/trash_face",
+    "2": "seeds:blocks/trash_bottom",
+    "3": "seeds:blocks/garbages_block"
+  }
+}

@@ -1,0 +1,15 @@
+{
+	"textures": {
+		"particle": "block/item_frame",
+		"wood": "block/item_frame"
+	},
+	"elements": [
+		{
+			"from": [3, 0, 3],
+			"to": [13, 0.25, 13],
+			"faces": {
+				"up": {"uv": [0, 5.5, 5, 10.5], "rotation": 180, "texture": "#wood"}
+			}
+		}
+	]
+}

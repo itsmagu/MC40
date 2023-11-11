@@ -1,0 +1,8 @@
+{
+  "parent": "create_things_and_misc:custom/trainbuffer",
+  "textures": {
+    "all": "create_things_and_misc:blocks/sturdy_sheet_block",
+    "particle": "create_things_and_misc:blocks/sturdy_sheet_block",
+    "0": "create_things_and_misc:blocks/train_buffer"
+  }
+}

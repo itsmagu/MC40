@@ -1,0 +1,6 @@
+{
+    "parent": "tripwire/tripwire",
+	"textures": {
+		"wire": "block/tripwire_cross_attached"
+	}
+}

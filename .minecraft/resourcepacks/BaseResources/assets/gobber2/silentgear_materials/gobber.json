@@ -1,0 +1,21 @@
+{
+  "main/all": [
+    {
+      "texture": "silentgear:main_generic_hc",
+      "color": "#4B9AC5"
+    },
+    {
+      "texture": "silentgear:_highlight"
+    }
+  ],
+  "main/armor": [
+    {
+      "texture": "silentgear:main_generic_hc",
+      "color": "#4B9AC5"
+    },
+    {
+      "texture": "silentgear:_highlight"
+    }
+  ]
+}
+

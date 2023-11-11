@@ -1,0 +1,124 @@
+{
+  "variants": {
+    "clicked=true,rotation=0": {
+      "model": "nightlights:block/mushroom_light_gray",
+      "y": 180
+    },
+    "clicked=true,rotation=1": {
+      "model": "nightlights:block/mushroom_light_gray3",
+      "y": 270
+    },
+    "clicked=true,rotation=2": {
+      "model": "nightlights:block/mushroom_light_gray2",
+      "y": 270
+    },
+    "clicked=true,rotation=3": {
+      "model": "nightlights:block/mushroom_light_gray1",
+      "y": 270
+    },
+    "clicked=true,rotation=4": {
+      "model": "nightlights:block/mushroom_light_gray",
+      "y": 270
+    },
+    "clicked=true,rotation=5": {
+      "model": "nightlights:block/mushroom_light_gray3"
+    },
+    "clicked=true,rotation=6": {      
+    "model": "nightlights:block/mushroom_light_gray2"
+    },
+    "clicked=true,rotation=7": {
+      "model": "nightlights:block/mushroom_light_gray1"
+    },
+    "clicked=true,rotation=8": {
+      "model": "nightlights:block/mushroom_light_gray"
+    },
+    "clicked=true,rotation=9": {
+      "model": "nightlights:block/mushroom_light_gray3",
+      "y": 90
+    },
+    "clicked=true,rotation=10": {
+      "model": "nightlights:block/mushroom_light_gray2",
+      "y": 90
+    },
+    "clicked=true,rotation=11": {
+      "model": "nightlights:block/mushroom_light_gray1",
+      "y": 90
+    },
+    "clicked=true,rotation=12": {
+      "model": "nightlights:block/mushroom_light_gray",
+      "y": 90
+    },
+    "clicked=true,rotation=13": {
+      "model": "nightlights:block/mushroom_light_gray3",
+      "y": 180
+    },
+    "clicked=true,rotation=14": {
+      "model": "nightlights:block/mushroom_light_gray2",
+      "y": 180
+    },
+    "clicked=true,rotation=15": {
+      "model": "nightlights:block/mushroom_light_gray1",
+      "y": 180
+    },
+      "clicked=false,rotation=0": {
+      "model": "nightlights:block/mushroom_light_gray",
+      "y": 180
+    },
+    "clicked=false,rotation=1": {
+      "model": "nightlights:block/mushroom_light_gray3",
+      "y": 270
+    },
+    "clicked=false,rotation=2": {
+      "model": "nightlights:block/mushroom_light_gray2",
+      "y": 270
+    },
+    "clicked=false,rotation=3": {
+      "model": "nightlights:block/mushroom_light_gray1",
+      "y": 270
+    },
+    "clicked=false,rotation=4": {
+      "model": "nightlights:block/mushroom_light_gray",
+      "y": 270
+    },
+    "clicked=false,rotation=5": {
+      "model": "nightlights:block/mushroom_light_gray3"
+    },
+    "clicked=false,rotation=6": {      
+    "model": "nightlights:block/mushroom_light_gray2"
+    },
+    "clicked=false,rotation=7": {
+      "model": "nightlights:block/mushroom_light_gray1"
+    },
+    "clicked=false,rotation=8": {
+      "model": "nightlights:block/mushroom_light_gray"
+    },
+    "clicked=false,rotation=9": {
+      "model": "nightlights:block/mushroom_light_gray3",
+      "y": 90
+    },
+    "clicked=false,rotation=10": {
+      "model": "nightlights:block/mushroom_light_gray2",
+      "y": 90
+    },
+    "clicked=false,rotation=11": {
+      "model": "nightlights:block/mushroom_light_gray1",
+      "y": 90
+    },
+    "clicked=false,rotation=12": {
+      "model": "nightlights:block/mushroom_light_gray",
+      "y": 90
+    },
+    "clicked=false,rotation=13": {
+      "model": "nightlights:block/mushroom_light_gray3",
+      "y": 180
+    },
+    "clicked=false,rotation=14": {
+      "model": "nightlights:block/mushroom_light_gray2",
+      "y": 180
+    },
+    "clicked=false,rotation=15": {
+      "model": "nightlights:block/mushroom_light_gray1",
+      "y": 180
+    }
+  }
+}

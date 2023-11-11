@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_column_tilt",
+  "textures": {
+    "top": "block/crimson_stem_top",
+    "bottom": "block/crimson_stem_top",
+    "side": "block/crimson_stem"
+  }
+}

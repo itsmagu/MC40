@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "stalwart_dungeons:block/teleporter"
+    },
+    "facing=east": {
+      "model": "stalwart_dungeons:block/teleporter",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "stalwart_dungeons:block/teleporter",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "stalwart_dungeons:block/teleporter",
+      "y": 270
+    }
+  }
+}

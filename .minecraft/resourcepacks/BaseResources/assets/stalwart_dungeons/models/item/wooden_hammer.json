@@ -1,0 +1,7 @@
+{
+  "parent": "stalwart_dungeons:custom/hammer",
+  "textures": {
+    "2": "stalwart_dungeons:blocks/wooden_hammer",
+    "particle": "stalwart_dungeons:items/wooden_hammer"
+  }
+}

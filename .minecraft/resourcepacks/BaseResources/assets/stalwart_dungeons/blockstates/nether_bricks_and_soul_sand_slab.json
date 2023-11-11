@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "stalwart_dungeons:block/nether_bricks_and_soul_sand_slab"
+    },
+    "type=top": {
+      "model": "stalwart_dungeons:block/nether_bricks_and_soul_sand_slab_top"
+    },
+    "type=double": {
+      "model": "stalwart_dungeons:block/nether_bricks_and_soul_sand_slab_full"
+    }
+  }
+}

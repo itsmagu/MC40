@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/end_stone", "weight": 50 },
+      { "model": "minecraft:block/end_stone2", "weight": 1 }
+    ]
+  }
+}

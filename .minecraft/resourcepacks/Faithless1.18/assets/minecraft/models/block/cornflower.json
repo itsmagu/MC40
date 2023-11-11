@@ -1,0 +1,7 @@
+{
+    "parent": "block/oxeye_daisy",
+	"textures": {
+		"1": "block/flower/cornflower",
+		"2": "block/flower/cornflower_stem"
+	}
+}

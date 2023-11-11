@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "create_things_and_misc:block/brass_tiles_slab"
+    },
+    "type=top": {
+      "model": "create_things_and_misc:block/brass_tiles_slab_top"
+    },
+    "type=double": {
+      "model": "create_things_and_misc:block/brass_tiles_slab_full"
+    }
+  }
+}

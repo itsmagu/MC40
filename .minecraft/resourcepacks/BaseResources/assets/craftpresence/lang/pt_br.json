@@ -1,0 +1,16 @@
+{
+  "craftpresence.command.compile": "§6§lLog do Compilador:§r\\n\"%1$s\"\\n\\n§6§lDescompilador (Tamanho: %2$s):§r\\n%3$s",
+  "craftpresence.command.export.progress": "§6§lExportando Asset(s) do Id de Cliente %1$s: %2$s de %3$s",
+  "craftpresence.defaults.integrations.replaymod.editor": "{player.name} está editando um Replay",
+  "craftpresence.defaults.integrations.replaymod.renderer": "{player.name} está exportando um Replay ({replaymod.frames.current} quadros /{replaymod.frames.total} quadros)",
+  "craftpresence.defaults.integrations.replaymod.viewer": "{player.name} está navegando pelos replays",
+  "craftpresence.defaults.weather.clear": "Limpo",
+  "craftpresence.defaults.weather.rain": "Chovendo",
+  "craftpresence.defaults.weather.thunder": "Trovejando",
+  "craftpresence.logger.error.compiler": "Um erro de compilador ocorreu:",
+  "craftpresence.logger.error.config.backup": "Um backup do seu arquivo de config foi salvo para prevenir perda de dados...",
+  "craftpresence.logger.error.config.invalid.icon.empty": "Não foi possível encontrar ícones compatíveis! Por favor, crie um Issue se isto for um erro do mod...",
+  "craftpresence.placeholders.biome.icon.description": "Ícone do bioma atual",
+  "craftpresence.placeholders.entity.default.icon.description": "O ícone de entidade padrão",
+  "craftpresence.placeholders.general.icon.description": "Ícone de exibição padrão"
+}

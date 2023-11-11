@@ -1,0 +1,7 @@
+{
+  "parent": "seeds:custom/leaf_hook",
+  "textures": {
+    "2": "seeds:blocks/leaf_hook",
+    "particle": "seeds:items/leaf_hook"
+  }
+}

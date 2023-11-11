@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "block/deepslate_tile_slab_double",
+    "side": "block/deepslate_tile_slab_double"
+  }
+}

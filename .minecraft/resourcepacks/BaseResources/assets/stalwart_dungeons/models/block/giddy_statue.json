@@ -1,0 +1,8 @@
+{
+  "parent": "stalwart_dungeons:custom/giddy_statue",
+  "textures": {
+    "all": "stalwart_dungeons:blocks/giddy_statue",
+    "particle": "stalwart_dungeons:blocks/spore_vaporizer",
+    "0": "stalwart_dungeons:blocks/giddy_statue"
+  }
+}

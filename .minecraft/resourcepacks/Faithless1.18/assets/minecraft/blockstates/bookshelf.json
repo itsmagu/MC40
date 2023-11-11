@@ -1,0 +1,45 @@
+{
+  "multipart": [
+    {
+      "apply": [
+      { "model": "minecraft:block/bookshelf_ends" }
+	  ]
+    },
+    {
+      "apply": [
+      { "model": "minecraft:block/bookshelf", "weight": 15, "uvlock": false },
+      { "model": "minecraft:block/bookshelf", "weight": 15, "uvlock": false, "y": 90 },
+      { "model": "minecraft:block/bookshelf", "weight": 15, "uvlock": false, "y": 180 },
+      { "model": "minecraft:block/bookshelf", "weight": 15, "uvlock": false, "y": 270 },
+      { "model": "minecraft:block/bookshelf2", "weight": 15, "uvlock": false },
+      { "model": "minecraft:block/bookshelf2", "weight": 15, "uvlock": false, "y": 90 },
+      { "model": "minecraft:block/bookshelf2", "weight": 15, "uvlock": false, "y": 180 },
+      { "model": "minecraft:block/bookshelf2", "weight": 15, "uvlock": false, "y": 270 },
+      { "model": "minecraft:block/bookshelf3", "weight": 5, "uvlock": false },
+      { "model": "minecraft:block/bookshelf3", "weight": 5, "uvlock": false, "y": 90 },
+      { "model": "minecraft:block/bookshelf3", "weight": 5, "uvlock": false, "y": 180 },
+      { "model": "minecraft:block/bookshelf3", "weight": 5, "uvlock": false, "y": 270 },
+      { "model": "minecraft:block/bookshelf4", "weight": 1, "uvlock": false },
+      { "model": "minecraft:block/bookshelf4", "weight": 1, "uvlock": false, "y": 90 },
+      { "model": "minecraft:block/bookshelf4", "weight": 1, "uvlock": false, "y": 180 },
+      { "model": "minecraft:block/bookshelf4", "weight": 1, "uvlock": false, "y": 270 },
+      { "model": "minecraft:block/bookshelf5", "weight": 3, "uvlock": false },
+      { "model": "minecraft:block/bookshelf5", "weight": 3, "uvlock": false, "y": 90 },
+      { "model": "minecraft:block/bookshelf5", "weight": 3, "uvlock": false, "y": 180 },
+      { "model": "minecraft:block/bookshelf5", "weight": 3, "uvlock": false, "y": 270 },
+      { "model": "minecraft:block/bookshelf6", "weight": 3, "uvlock": false },
+      { "model": "minecraft:block/bookshelf6", "weight": 3, "uvlock": false, "y": 90 },
+      { "model": "minecraft:block/bookshelf6", "weight": 3, "uvlock": false, "y": 180 },
+      { "model": "minecraft:block/bookshelf6", "weight": 3, "uvlock": false, "y": 270 },
+      { "model": "minecraft:block/bookshelf7", "weight": 3, "uvlock": false },
+      { "model": "minecraft:block/bookshelf7", "weight": 3, "uvlock": false, "y": 90 },
+      { "model": "minecraft:block/bookshelf7", "weight": 3, "uvlock": false, "y": 180 },
+      { "model": "minecraft:block/bookshelf7", "weight": 3, "uvlock": false, "y": 270 },
+      { "model": "minecraft:block/bookshelf8", "weight": 1, "uvlock": false },
+      { "model": "minecraft:block/bookshelf8", "weight": 1, "uvlock": false, "y": 90 },
+      { "model": "minecraft:block/bookshelf8", "weight": 1, "uvlock": false, "y": 180 },
+      { "model": "minecraft:block/bookshelf8", "weight": 1, "uvlock": false, "y": 270 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+	"textureSize": [64, 32],
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -25, 0],
+			"boxes": [
+				{
+					"coordinates": [-6, 24, -6, 12, 9, 12],
+					"uvNorth": [12, 12, 24, 21],
+					"uvEast": [0, 12, 12, 21],
+					"uvSouth": [36, 12, 48, 21],
+					"uvWest": [24, 12, 36, 21],
+					"uvUp": [24, 12, 12, 0],
+					"uvDown": [36, 0, 24, 12]
+				},
+				{
+					"coordinates": [-5, 18, -5, 10, 16, 10],
+					"uvNorth": [13, 12, 23, 28],
+					"uvEast": [1, 12, 11, 28],
+					"uvSouth": [37, 12, 47, 28],
+					"uvWest": [25, 12, 35, 28],
+					"uvUp": [23, 1, 13, 11],
+					"uvDown": [35, 1, 25, 11]
+				}
+			]
+		}
+	]
+}

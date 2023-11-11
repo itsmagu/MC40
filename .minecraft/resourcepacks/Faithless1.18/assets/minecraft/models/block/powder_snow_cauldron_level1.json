@@ -1,0 +1,13 @@
+{
+  "parent": "block/template_cauldron_level1",
+  "textures": {
+    "content": "block/powder_snow",
+    "under": "block/cauldron_inner",
+    "particle": "block/cauldron_side_snow1",
+    "top": "block/cauldron_top_snow1",
+    "bottom": "block/cauldron_bottom",
+    "side": "block/cauldron_side_snow1",
+	"inside": "block/powder_snow",
+	"5": "block/cauldron_side_inner_snow1"
+  }
+}

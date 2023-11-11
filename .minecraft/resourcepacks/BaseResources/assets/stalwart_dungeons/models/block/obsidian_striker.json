@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stalwart_dungeons:blocks/obsidian",
+    "up": "stalwart_dungeons:blocks/obsidian",
+    "north": "stalwart_dungeons:blocks/obsidian_striker",
+    "east": "stalwart_dungeons:blocks/obsidian_striker",
+    "south": "stalwart_dungeons:blocks/obsidian_striker",
+    "west": "stalwart_dungeons:blocks/obsidian_striker",
+    "particle": "stalwart_dungeons:blocks/obsidian"
+  }
+}

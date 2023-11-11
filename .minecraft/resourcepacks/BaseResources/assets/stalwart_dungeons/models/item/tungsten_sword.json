@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "stalwart_dungeons:items/tungsten_glaive"
+  }
+}

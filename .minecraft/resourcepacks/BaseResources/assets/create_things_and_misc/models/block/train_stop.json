@@ -1,0 +1,10 @@
+{
+  "parent": "create_things_and_misc:custom/train_stop",
+  "textures": {
+    "all": "create_things_and_misc:blocks/piston_inner",
+    "particle": "create_things_and_misc:blocks/piston_bottom",
+    "1": "create_things_and_misc:blocks/standard_track",
+    "2": "create_things_and_misc:blocks/standard_track_mip",
+    "3": "create_things_and_misc:blocks/train_stop"
+  }
+}

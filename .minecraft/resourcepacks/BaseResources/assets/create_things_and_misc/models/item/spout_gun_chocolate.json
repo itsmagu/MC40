@@ -1,0 +1,7 @@
+{
+  "parent": "create_things_and_misc:custom/water_gun",
+  "textures": {
+    "1": "create_things_and_misc:blocks/spout_gun_chocolate",
+    "particle": "create_things_and_misc:items/slime_bucket"
+  }
+}

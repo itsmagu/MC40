@@ -1,0 +1,67 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "minecraft:block/nether_brick_fence_post"
+      }
+    },
+    {
+      "when": {
+	    "north": "true", "south": "true"  
+	  },
+      "apply": {
+        "model": "minecraft:block/nether_brick_fence_side2",
+        "uvlock": false
+      }
+    },
+    {
+      "when": {
+        "east": "true", "west": "true"  
+      },
+      "apply": {
+        "model": "minecraft:block/nether_brick_fence_side2",
+        "y": 90,
+        "uvlock": false
+      }
+    },
+    {
+      "when": {
+	    "north": "true", "south": "false"  
+	  },
+      "apply": {
+        "model": "minecraft:block/nether_brick_fence_side",
+        "uvlock": false
+      }
+    },
+    {
+      "when": {
+        "east": "true", "west": "false"  
+      },
+      "apply": {
+        "model": "minecraft:block/nether_brick_fence_side",
+        "y": 90,
+        "uvlock": false
+      }
+    },
+    {
+      "when": {
+        "south": "true", "north": "false"  
+      },
+      "apply": {
+        "model": "minecraft:block/nether_brick_fence_side",
+        "y": 180,
+        "uvlock": false
+      }
+    },
+    {
+      "when": {
+        "west": "true", "east": "false"  
+      },
+      "apply": {
+        "model": "minecraft:block/nether_brick_fence_side",
+        "y": 270,
+        "uvlock": false
+      }
+    }
+  ]
+}

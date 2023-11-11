@@ -1,0 +1,18 @@
+{
+	"ambientocclusion": false,
+	"texture_size": [48, 32],
+	"textures": {
+		"particle": "block/redstone/particle"
+	},
+	"elements": [
+		{
+			"from": [0, 1, 0],
+			"to": [16, 1, 16],
+			"shade": false,
+			"faces": {
+				"up": {"uv": [10.66667, 0, 16, 8], "texture": "#wire"},
+				"down": {"uv": [10.66667, 8, 16, 0], "texture": "#wire", "cullface": "down"}
+			}
+		}
+	]
+}

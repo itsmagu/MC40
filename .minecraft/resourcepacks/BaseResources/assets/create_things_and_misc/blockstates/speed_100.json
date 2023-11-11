@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "create_things_and_misc:block/speed_100"
+    },
+    "facing=east": {
+      "model": "create_things_and_misc:block/speed_100",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "create_things_and_misc:block/speed_100",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "create_things_and_misc:block/speed_100",
+      "y": 270
+    }
+  }
+}

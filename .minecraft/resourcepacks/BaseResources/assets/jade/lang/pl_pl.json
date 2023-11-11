@@ -1,0 +1,64 @@
+{
+  "tooltip.waila.crop_growth": "Stadium rozwoju: %s",
+  "tooltip.waila.crop_mature": "Dojrzałe",
+  "tooltip.waila.empty": "Puste",
+  "tooltip.waila.delay": "Opóźnienie: %d",
+  "tooltip.waila.mode": "Tryb: %s",
+  "tooltip.waila.mode_comparator": "Komparator",
+  "tooltip.waila.mode_subtractor": "Subtraktor",
+  "tooltip.waila.state": "Stan: %s",
+  "tooltip.waila.state_on": "Wł.",
+  "tooltip.waila.state_off": "Wył.",
+  "tooltip.waila.power": "Zasilanie: %d",
+  "tooltip.waila.villager_profession":  "Profesja: %s",
+
+  "gui.waila.configuration": "%s — konfiguracja",
+  "gui.waila.waila_settings": "%s — ustawienia",
+  "gui.waila.plugin_settings": "Ustawienia pluginu",
+
+  "key.waila.config": "Otwórz konfigurację",
+  "key.waila.show_overlay": "Pokazuj nakładkę",
+  "key.waila.toggle_liquid": "Przełącz ciecz",
+
+  "config.waila.general": "Ogólne",
+  "config.waila.display_tooltip": "Pokazuj etykietę",
+  "config.waila.display_tooltip_desc": "Zbieraj dane i pokazuj etykietę",
+  "config.waila.display_fluids": "Wyświetlaj ciecze",
+  "config.waila.display_fluids_desc": "Staraj się pokazywać ciecze",
+  "config.waila.display_mode": "Tryb wyświetl",
+  "config.waila.display_mode_toggle": "Przełącz",
+  "config.waila.display_mode_toggle_desc": "Włącz i wyłącz przyciskiem „wyświetl”",
+  "config.waila.display_mode_hold_key": "Przytrzymaj",
+  "config.waila.display_mode_hold_key_desc": "Przytrzymaj przycisk „wyświetl”",
+  "config.waila.hide_from_debug": "Ukryj w tr. debugowania",
+  "config.waila.hide_from_debug_desc": "Ukrywa etykietę po otwarciu ekranu debugowania",
+  "config.waila.display_item": "Pokazuj przedmiot",
+
+  "config.waila.overlay": "Nakładka",
+  "config.waila.overlay_pos_x": "Stosunek poziomy",
+  "config.waila.overlay_pos_y": "Stosunek pionowy",
+  "config.waila.overlay_scale": "Skala wyświetlacza",
+
+  "config.waila.overlay_color": "Kolor",
+  "config.waila.overlay_alpha": "St. alfa",
+  "config.waila.overlay_theme": "Motyw",
+
+  "config.waila.formatting": "Formatowanie",
+  "config.waila.format_mod_name": "Nazwa moda",
+  "config.waila.format_block_name": "Nazwa bloku",
+  "config.waila.format_entity_name": "Nazwa bytu",
+  "config.waila.format_registry_name": "Nazwa rejestru",
+
+  "config.waila.plugin_minecraft": "Minecraft",
+  "config.waila.plugin_minecraft.display_furnace_contents": "Zawartość pieca",
+  "config.waila.plugin_minecraft.spawner_type": "Rodzaj spawnera",
+  "config.waila.plugin_minecraft.crop_progress": "Stadium rozwoju plonu",
+  "config.waila.plugin_minecraft.jukebox": "Odtwarzana płyta",
+  "config.waila.plugin_minecraft.villager_profession": "Profesja osadnika",
+
+  "config.waila.plugin_jade.registry_name": "Pokaż nazwy rejetrów",
+  "config.waila.plugin_jade.entity_hp": "Pokaż zdrowie bytów",
+  "config.waila.plugin_jade.block_states": "Pokaż stan",
+
+  "entity.minecraft.villager.none": "Głupiec"
+}

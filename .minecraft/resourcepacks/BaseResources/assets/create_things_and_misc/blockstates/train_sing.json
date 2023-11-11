@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "create_things_and_misc:block/train_sing"
+    },
+    "facing=east": {
+      "model": "create_things_and_misc:block/train_sing",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "create_things_and_misc:block/train_sing",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "create_things_and_misc:block/train_sing",
+      "y": 270
+    }
+  }
+}

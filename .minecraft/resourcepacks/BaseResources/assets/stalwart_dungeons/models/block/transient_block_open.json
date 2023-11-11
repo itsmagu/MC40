@@ -1,0 +1,8 @@
+{
+  "parent": "stalwart_dungeons:custom/transient_block_close",
+  "textures": {
+    "all": "stalwart_dungeons:blocks/transient_block_open",
+    "particle": "stalwart_dungeons:blocks/transient_block_open",
+    "0": "stalwart_dungeons:blocks/transient_block_open"
+  }
+}

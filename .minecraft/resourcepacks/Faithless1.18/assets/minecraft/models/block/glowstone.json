@@ -1,0 +1,10 @@
+{
+	"parent": "block/cube_all_glow",
+	"textures": {
+		"up": "block/glowstone",
+		"down": "block/glowstone",
+		"front": "block/glowstone",
+		"side": "block/glowstone",
+		"particle": "block/glowstone"
+	}
+}

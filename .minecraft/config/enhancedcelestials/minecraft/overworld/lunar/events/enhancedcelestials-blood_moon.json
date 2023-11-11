@@ -21,7 +21,7 @@
   },
   "blockSleeping": true,
   "spawnCategoryMultiplier": {
-    "monster": 3.0
+    "monster": 1.3
   },
   "lunarSpawnSettings": {
     "useBiomeSpawnSettings": true,

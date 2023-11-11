@@ -1,0 +1,30 @@
+{
+  "multipart": [
+    {
+      "when": { "half":"lower" },
+      "apply": { "model": "minecraft:block/tall_grass_bottom" }
+    },
+    {
+      "when": { "half":"upper" },
+      "apply": { "model": "minecraft:block/tall_grass_top" }
+    },
+    {
+      "when": { "half":"upper" },
+      "apply": [
+		{ "model": "minecraft:block/air", "weight": 70 },
+		{ "model": "minecraft:block/fireflies_0", "weight": 1 },
+		{ "model": "minecraft:block/fireflies_22", "weight": 1 },
+		{ "model": "minecraft:block/fireflies_-22", "weight": 1 },
+		{ "model": "minecraft:block/fireflies_0", "weight": 1, "y": 90 },
+		{ "model": "minecraft:block/fireflies_22", "weight": 1, "y": 90 },
+		{ "model": "minecraft:block/fireflies_-22", "weight": 1, "y": 90 },
+		{ "model": "minecraft:block/fireflies_0", "weight": 1, "y": 180 },
+		{ "model": "minecraft:block/fireflies_22", "weight": 1, "y": 180 },
+		{ "model": "minecraft:block/fireflies_-22", "weight": 1, "y": 180 },
+		{ "model": "minecraft:block/fireflies_0", "weight": 1, "y": 270 },
+		{ "model": "minecraft:block/fireflies_22", "weight": 1, "y": 270 },
+		{ "model": "minecraft:block/fireflies_-22", "weight": 1, "y": 270 }
+      ]
+	}
+  ]
+}

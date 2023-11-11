@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "create_things_and_misc:blocks/obsidian_sand",
+    "up": "create_things_and_misc:blocks/obsidian_sand",
+    "north": "create_things_and_misc:blocks/obsidian_sand",
+    "east": "create_things_and_misc:blocks/obsidian_sand",
+    "south": "create_things_and_misc:blocks/obsidian_sand",
+    "west": "create_things_and_misc:blocks/obsidian_sand",
+    "particle": "create_things_and_misc:blocks/obsidian_sand"
+  }
+}

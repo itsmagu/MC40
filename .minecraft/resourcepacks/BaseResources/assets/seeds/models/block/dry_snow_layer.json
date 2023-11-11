@@ -1,0 +1,8 @@
+{
+  "parent": "seeds:custom/dry_snow",
+  "textures": {
+    "all": "seeds:blocks/dry_snow",
+    "particle": "seeds:blocks/dry_snow",
+    "0": "seeds:blocks/dry_snow"
+  }
+}

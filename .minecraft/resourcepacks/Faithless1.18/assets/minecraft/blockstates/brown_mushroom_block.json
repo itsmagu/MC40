@@ -1,0 +1,688 @@
+{
+  "multipart": [
+    { "apply": { "model": "brownshroom/nesw" },
+      "when": { "north": "true", "up": "false", "west": "false", "down": "false", "east": "false" }
+    },
+	
+    { "apply": { "model": "brownshroom/esw" },
+      "when": { "north": "true", "up": "true", "west": "false", "down": "false", "east": "false" }
+    },
+    { "apply": { "model": "brownshroom/nsw" },
+      "when": { "north": "true", "up": "false", "west": "true", "down": "false", "east": "false" }
+    },
+    { "apply": { "model": "brownshroom/new" },
+      "when": { "north": "true", "up": "false", "west": "false", "down": "true", "east": "false" }
+    },
+    { "apply": { "model": "brownshroom/nes" },
+      "when": { "north": "true", "up": "false", "west": "false", "down": "false", "east": "true" }
+    },
+	
+    { "apply": { "model": "brownshroom/sw" },
+      "when": { "north": "true", "up": "true", "west": "true", "down": "false", "east": "false" }
+    },
+    { "apply": { "model": "brownshroom/nw" },
+      "when": { "north": "true", "up": "false", "west": "true", "down": "true", "east": "false" }
+    },
+    { "apply": { "model": "brownshroom/ne" },
+      "when": { "north": "true", "up": "false", "west": "false", "down": "true", "east": "true" }
+    },
+    { "apply": { "model": "brownshroom/es" },
+      "when": { "north": "true", "up": "true", "west": "false", "down": "false", "east": "true" }
+    },
+	
+    { "apply": { "model": "brownshroom/ew" },
+      "when": { "north": "true", "up": "true", "west": "false", "down": "true", "east": "false" }
+    },
+    { "apply": { "model": "brownshroom/ns" },
+      "when": { "north": "true", "up": "false", "west": "true", "down": "false", "east": "true" }
+    },
+	
+    { "apply": { "model": "brownshroom/w" },
+      "when": { "north": "true", "up": "true", "west": "true", "down": "true", "east": "false" }
+    },
+    { "apply": { "model": "brownshroom/n" },
+      "when": { "north": "true", "up": "false", "west": "true", "down": "true", "east": "true" }
+    },
+    { "apply": { "model": "brownshroom/e" },
+      "when": { "north": "true", "up": "true", "west": "false", "down": "true", "east": "true" }
+    },
+    { "apply": { "model": "brownshroom/s" },
+      "when": { "north": "true", "up": "true", "west": "true", "down": "false", "east": "true" }
+    },
+	
+    { "apply": { "model": "brownshroom/block" },
+      "when": { "north": "true", "up": "true", "west": "true", "down": "true", "east": "true" }
+    },
+	
+	
+	
+    { "apply": { "model": "brownshroom/nesw", "y": 90 },
+      "when": { "east": "true", "up": "false", "north": "false", "down": "false", "south": "false" }
+    },
+	
+    { "apply": { "model": "brownshroom/esw", "y": 90 },
+      "when": { "east": "true", "up": "true", "north": "false", "down": "false", "south": "false" }
+    },
+    { "apply": { "model": "brownshroom/nsw", "y": 90 },
+      "when": { "east": "true", "up": "false", "north": "true", "down": "false", "south": "false" }
+    },
+    { "apply": { "model": "brownshroom/new", "y": 90 },
+      "when": { "east": "true", "up": "false", "north": "false", "down": "true", "south": "false" }
+    },
+    { "apply": { "model": "brownshroom/nes", "y": 90 },
+      "when": { "east": "true", "up": "false", "north": "false", "down": "false", "south": "true" }
+    },
+	
+    { "apply": { "model": "brownshroom/sw", "y": 90 },
+      "when": { "east": "true", "up": "true", "north": "true", "down": "false", "south": "false" }
+    },
+    { "apply": { "model": "brownshroom/nw", "y": 90 },
+      "when": { "east": "true", "up": "false", "north": "true", "down": "true", "south": "false" }
+    },
+    { "apply": { "model": "brownshroom/ne", "y": 90 },
+      "when": { "east": "true", "up": "false", "north": "false", "down": "true", "south": "true" }
+    },
+    { "apply": { "model": "brownshroom/es", "y": 90 },
+      "when": { "east": "true", "up": "true", "north": "false", "down": "false", "south": "true" }
+    },
+	
+    { "apply": { "model": "brownshroom/ew", "y": 90 },
+      "when": { "east": "true", "up": "true", "north": "false", "down": "true", "south": "false" }
+    },
+    { "apply": { "model": "brownshroom/ns", "y": 90 },
+      "when": { "east": "true", "up": "false", "north": "true", "down": "false", "south": "true" }
+    },
+	
+    { "apply": { "model": "brownshroom/w", "y": 90 },
+      "when": { "east": "true", "up": "true", "north": "true", "down": "true", "south": "false" }
+    },
+    { "apply": { "model": "brownshroom/n", "y": 90 },
+      "when": { "east": "true", "up": "false", "north": "true", "down": "true", "south": "true" }
+    },
+    { "apply": { "model": "brownshroom/e", "y": 90 },
+      "when": { "east": "true", "up": "true", "north": "false", "down": "true", "south": "true" }
+    },
+    { "apply": { "model": "brownshroom/s", "y": 90 },
+      "when": { "east": "true", "up": "true", "north": "true", "down": "false", "south": "true" }
+    },
+	
+    { "apply": { "model": "brownshroom/block", "y": 90 },
+      "when": { "east": "true", "up": "true", "north": "true", "down": "true", "south": "true" }
+    },
+	
+	
+	
+    { "apply": { "model": "brownshroom/nesw", "y": 180 },
+      "when": { "south": "true", "up": "false", "east": "false", "down": "false", "west": "false" }
+    },
+	
+    { "apply": { "model": "brownshroom/esw", "y": 180 },
+      "when": { "south": "true", "up": "true", "east": "false", "down": "false", "west": "false" }
+    },
+    { "apply": { "model": "brownshroom/nsw", "y": 180 },
+      "when": { "south": "true", "up": "false", "east": "true", "down": "false", "west": "false" }
+    },
+    { "apply": { "model": "brownshroom/new", "y": 180 },
+      "when": { "south": "true", "up": "false", "east": "false", "down": "true", "west": "false" }
+    },
+    { "apply": { "model": "brownshroom/nes", "y": 180 },
+      "when": { "south": "true", "up": "false", "east": "false", "down": "false", "west": "true" }
+    },
+	
+    { "apply": { "model": "brownshroom/sw", "y": 180 },
+      "when": { "south": "true", "up": "true", "east": "true", "down": "false", "west": "false" }
+    },
+    { "apply": { "model": "brownshroom/nw", "y": 180 },
+      "when": { "south": "true", "up": "false", "east": "true", "down": "true", "west": "false" }
+    },
+    { "apply": { "model": "brownshroom/ne", "y": 180 },
+      "when": { "south": "true", "up": "false", "east": "false", "down": "true", "west": "true" }
+    },
+    { "apply": { "model": "brownshroom/es", "y": 180 },
+      "when": { "south": "true", "up": "true", "east": "false", "down": "false", "west": "true" }
+    },
+	
+    { "apply": { "model": "brownshroom/ew", "y": 180 },
+      "when": { "south": "true", "up": "true", "east": "false", "down": "true", "west": "false" }
+    },
+    { "apply": { "model": "brownshroom/ns", "y": 180 },
+      "when": { "south": "true", "up": "false", "east": "true", "down": "false", "west": "true" }
+    },
+	
+    { "apply": { "model": "brownshroom/w", "y": 180 },
+      "when": { "south": "true", "up": "true", "east": "true", "down": "true", "west": "false" }
+    },
+    { "apply": { "model": "brownshroom/n", "y": 180 },
+      "when": { "south": "true", "up": "false", "east": "true", "down": "true", "west": "true" }
+    },
+    { "apply": { "model": "brownshroom/e", "y": 180 },
+      "when": { "south": "true", "up": "true", "east": "false", "down": "true", "west": "true" }
+    },
+    { "apply": { "model": "brownshroom/s", "y": 180 },
+      "when": { "south": "true", "up": "true", "east": "true", "down": "false", "west": "true" }
+    },
+	
+    { "apply": { "model": "brownshroom/block", "y": 180 },
+      "when": { "south": "true", "up": "true", "east": "true", "down": "true", "west": "true" }
+    },
+	
+	
+	
+    { "apply": { "model": "brownshroom/nesw", "y": 270 },
+      "when": { "west": "true", "up": "false", "south": "false", "down": "false", "north": "false" }
+    },
+	
+    { "apply": { "model": "brownshroom/esw", "y": 270 },
+      "when": { "west": "true", "up": "true", "south": "false", "down": "false", "north": "false" }
+    },
+    { "apply": { "model": "brownshroom/nsw", "y": 270 },
+      "when": { "west": "true", "up": "false", "south": "true", "down": "false", "north": "false" }
+    },
+    { "apply": { "model": "brownshroom/new", "y": 270 },
+      "when": { "west": "true", "up": "false", "south": "false", "down": "true", "north": "false" }
+    },
+    { "apply": { "model": "brownshroom/nes", "y": 270 },
+      "when": { "west": "true", "up": "false", "south": "false", "down": "false", "north": "true" }
+    },
+	
+    { "apply": { "model": "brownshroom/sw", "y": 270 },
+      "when": { "west": "true", "up": "true", "south": "true", "down": "false", "north": "false" }
+    },
+    { "apply": { "model": "brownshroom/nw", "y": 270 },
+      "when": { "west": "true", "up": "false", "south": "true", "down": "true", "north": "false" }
+    },
+    { "apply": { "model": "brownshroom/ne", "y": 270 },
+      "when": { "west": "true", "up": "false", "south": "false", "down": "true", "north": "true" }
+    },
+    { "apply": { "model": "brownshroom/es", "y": 270 },
+      "when": { "west": "true", "up": "true", "south": "false", "down": "false", "north": "true" }
+    },
+	
+    { "apply": { "model": "brownshroom/ew", "y": 270 },
+      "when": { "west": "true", "up": "true", "south": "false", "down": "true", "north": "false" }
+    },
+    { "apply": { "model": "brownshroom/ns", "y": 270 },
+      "when": { "west": "true", "up": "false", "south": "true", "down": "false", "north": "true" }
+    },
+	
+    { "apply": { "model": "brownshroom/w", "y": 270 },
+      "when": { "west": "true", "up": "true", "south": "true", "down": "true", "north": "false" }
+    },
+    { "apply": { "model": "brownshroom/n", "y": 270 },
+      "when": { "west": "true", "up": "false", "south": "true", "down": "true", "north": "true" }
+    },
+    { "apply": { "model": "brownshroom/e", "y": 270 },
+      "when": { "west": "true", "up": "true", "south": "false", "down": "true", "north": "true" }
+    },
+    { "apply": { "model": "brownshroom/s", "y": 270 },
+      "when": { "west": "true", "up": "true", "south": "true", "down": "false", "north": "true" }
+    },
+	
+    { "apply": { "model": "brownshroom/block", "y": 270 },
+      "when": { "west": "true", "up": "true", "south": "true", "down": "true", "north": "true" }
+    },
+	
+	
+	
+    { "apply": { "model": "brownshroom/top/nesw", "x": 270 },
+      "when": { "up": "true", "north": "false", "south": "false", "south": "false", "west": "false" }
+    },
+	
+    { "apply": { "model": "brownshroom/top/new", "x": 270 },
+      "when": { "up": "true", "north": "true", "east": "false", "south": "false", "west": "false" }
+    },
+    { "apply": { "model": "brownshroom/top/nes", "x": 270 },
+      "when": { "up": "true", "north": "false", "east": "true", "south": "false", "west": "false" }
+    },
+    { "apply": { "model": "brownshroom/top/esw", "x": 270 },
+      "when": { "up": "true", "north": "false", "east": "false", "south": "true", "west": "false" }
+    },
+    { "apply": { "model": "brownshroom/top/nsw", "x": 270 },
+      "when": { "up": "true", "north": "false", "east": "false", "south": "false", "west": "true" }
+    },
+	
+    { "apply": { "model": "brownshroom/top/ne", "x": 270 },
+      "when": { "up": "true", "north": "true", "east": "true", "south": "false", "west": "false" }
+    },
+    { "apply": { "model": "brownshroom/top/es", "x": 270 },
+      "when": { "up": "true", "north": "false", "east": "true", "south": "true", "west": "false" }
+    },
+    { "apply": { "model": "brownshroom/top/sw", "x": 270 },
+      "when": { "up": "true", "north": "false", "east": "false", "south": "true", "west": "true" }
+    },
+    { "apply": { "model": "brownshroom/top/nw", "x": 270 },
+      "when": { "up": "true", "north": "true", "east": "false", "south": "false", "west": "true" }
+    },
+	
+    { "apply": { "model": "brownshroom/top/ew", "x": 270 },
+      "when": { "up": "true", "north": "true", "east": "false", "south": "true", "west": "false" }
+    },
+    { "apply": { "model": "brownshroom/top/ns", "x": 270 },
+      "when": { "up": "true", "north": "false", "east": "true", "south": "false", "west": "true" }
+    },
+	
+    { "apply": { "model": "brownshroom/top/e", "x": 270 },
+      "when": { "up": "true", "north": "true", "east": "true", "south": "true", "west": "false" }
+    },
+    { "apply": { "model": "brownshroom/top/s", "x": 270 },
+      "when": { "up": "true", "north": "false", "east": "true", "south": "true", "west": "true" }
+    },
+    { "apply": { "model": "brownshroom/top/w", "x": 270 },
+      "when": { "up": "true", "north": "true", "east": "false", "south": "true", "west": "true" }
+    },
+    { "apply": { "model": "brownshroom/top/n", "x": 270 },
+      "when": { "up": "true", "north": "true", "east": "true", "south": "false", "west": "true" }
+    },
+	
+    { "apply": { "model": "brownshroom/top/block", "x": 270 },
+      "when": { "up": "true", "north": "true", "east": "true", "south": "true", "west": "true" }
+    },
+	
+	
+	
+    { "apply": { "model": "brownshroom/top/nesw", "x": 90 },
+      "when": { "down": "true", "north": "false", "south": "false", "south": "false", "west": "false" }
+    },
+	
+    { "apply": { "model": "brownshroom/top/new", "x": 90 },
+      "when": { "down": "true", "north": "true", "east": "false", "south": "false", "west": "false" }
+    },
+    { "apply": { "model": "brownshroom/top/nes", "x": 90 },
+      "when": { "down": "true", "north": "false", "east": "true", "south": "false", "west": "false" }
+    },
+    { "apply": { "model": "brownshroom/top/esw", "x": 90 },
+      "when": { "down": "true", "north": "false", "east": "false", "south": "true", "west": "false" }
+    },
+    { "apply": { "model": "brownshroom/top/nsw", "x": 90 },
+      "when": { "down": "true", "north": "false", "east": "false", "south": "false", "west": "true" }
+    },
+	
+    { "apply": { "model": "brownshroom/top/ne", "x": 90 },
+      "when": { "down": "true", "north": "true", "east": "true", "south": "false", "west": "false" }
+    },
+    { "apply": { "model": "brownshroom/top/es", "x": 90 },
+      "when": { "down": "true", "north": "false", "east": "true", "south": "true", "west": "false" }
+    },
+    { "apply": { "model": "brownshroom/top/sw", "x": 90 },
+      "when": { "down": "true", "north": "false", "east": "false", "south": "true", "west": "true" }
+    },
+    { "apply": { "model": "brownshroom/top/nw", "x": 90 },
+      "when": { "down": "true", "north": "true", "east": "false", "south": "false", "west": "true" }
+    },
+	
+    { "apply": { "model": "brownshroom/top/ew", "x": 90 },
+      "when": { "down": "true", "north": "true", "east": "false", "south": "true", "west": "false" }
+    },
+    { "apply": { "model": "brownshroom/top/ns", "x": 90 },
+      "when": { "down": "true", "north": "false", "east": "true", "south": "false", "west": "true" }
+    },
+	
+    { "apply": { "model": "brownshroom/top/e", "x": 90 },
+      "when": { "down": "true", "north": "true", "east": "true", "south": "true", "west": "false" }
+    },
+    { "apply": { "model": "brownshroom/top/s", "x": 90 },
+      "when": { "down": "true", "north": "false", "east": "true", "south": "true", "west": "true" }
+    },
+    { "apply": { "model": "brownshroom/top/w", "x": 90 },
+      "when": { "down": "true", "north": "true", "east": "false", "south": "true", "west": "true" }
+    },
+    { "apply": { "model": "brownshroom/top/n", "x": 90 },
+      "when": { "down": "true", "north": "true", "east": "true", "south": "false", "west": "true" }
+    },
+	
+    { "apply": { "model": "brownshroom/top/block", "x": 90 },
+      "when": { "down": "true", "north": "true", "east": "true", "south": "true", "west": "true" }
+    },
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside" },
+      "when": { "north": "false", "up": "false", "west": "false", "down": "false", "east": "false" }
+    },
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_n" },
+      "when": { "north": "false", "up": "true", "west": "false", "down": "false", "east": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_e" },
+      "when": { "north": "false", "up": "false", "west": "true", "down": "false", "east": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_n", "x": 180, "y": 180 },
+      "when": { "north": "false", "up": "false", "west": "false", "down": "true", "east": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_e", "x": 180, "y": 180 },
+      "when": { "north": "false", "up": "false", "west": "false", "down": "false", "east": "true" }
+    },
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_ne" },
+      "when": { "north": "false", "up": "true", "west": "true", "down": "false", "east": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_es" },
+      "when": { "north": "false", "up": "false", "west": "true", "down": "true", "east": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_ne", "x": 180, "y": 180 },
+      "when": { "north": "false", "up": "false", "west": "false", "down": "true", "east": "true" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_es", "x": 180, "y": 180 },
+      "when": { "north": "false", "up": "true", "west": "false", "down": "false", "east": "true" }
+    },
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_ns" },
+      "when": { "north": "false", "up": "true", "west": "false", "down": "true", "east": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_ew" },
+      "when": { "north": "false", "up": "false", "west": "true", "down": "false", "east": "true" }
+    },
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_nes" },
+      "when": { "north": "false", "up": "true", "west": "true", "down": "true", "east": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_esw" },
+      "when": { "north": "false", "up": "false", "west": "true", "down": "true", "east": "true" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_nes", "x": 180, "y": 180 },
+      "when": { "north": "false", "up": "true", "west": "false", "down": "true", "east": "true" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_esw", "x": 180, "y": 180 },
+      "when": { "north": "false", "up": "true", "west": "true", "down": "false", "east": "true" }
+    },
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_nesw" },
+      "when": { "north": "false", "up": "true", "west": "true", "down": "true", "east": "true" }
+    },
+	
+	
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside", "y": 90 },
+      "when": { "east": "false", "up": "false", "north": "false", "down": "false", "south": "false" }
+    },
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_n", "y": 90 },
+      "when": { "east": "false", "up": "true", "north": "false", "down": "false", "south": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_e", "y": 90 },
+      "when": { "east": "false", "up": "false", "north": "true", "down": "false", "south": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_n", "x": 180, "y": 270 },
+      "when": { "east": "false", "up": "false", "north": "false", "down": "true", "south": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_e", "x": 180, "y": 270 },
+      "when": { "east": "false", "up": "false", "north": "false", "down": "false", "south": "true" }
+    },
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_ne", "y": 90 },
+      "when": { "east": "false", "up": "true", "north": "true", "down": "false", "south": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_es", "y": 90 },
+      "when": { "east": "false", "up": "false", "north": "true", "down": "true", "south": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_ne", "x": 180, "y": 270 },
+      "when": { "east": "false", "up": "false", "north": "false", "down": "true", "south": "true" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_es", "x": 180, "y": 270 },
+      "when": { "east": "false", "up": "true", "north": "false", "down": "false", "south": "true" }
+    },
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_ns", "y": 90 },
+      "when": { "east": "false", "up": "true", "north": "false", "down": "true", "south": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_ew", "y": 90 },
+      "when": { "east": "false", "up": "false", "north": "true", "down": "false", "south": "true" }
+    },
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_nes", "y": 90 },
+      "when": { "east": "false", "up": "true", "north": "true", "down": "true", "south": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_esw", "y": 90 },
+      "when": { "east": "false", "up": "false", "north": "true", "down": "true", "south": "true" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_nes", "x": 180, "y": 270 },
+      "when": { "east": "false", "up": "true", "north": "false", "down": "true", "south": "true" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_esw", "x": 180, "y": 270 },
+      "when": { "east": "false", "up": "true", "north": "true", "down": "false", "south": "true" }
+    },
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_nesw", "y": 90 },
+      "when": { "east": "false", "up": "true", "north": "true", "down": "true", "south": "true" }
+    },
+	
+	
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside", "y": 180 },
+      "when": { "south": "false", "up": "false", "east": "false", "down": "false", "west": "false" }
+    },
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_n", "y": 180 },
+      "when": { "south": "false", "up": "true", "east": "false", "down": "false", "west": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_e", "y": 180 },
+      "when": { "south": "false", "up": "false", "east": "true", "down": "false", "west": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_n", "x": 180 },
+      "when": { "south": "false", "up": "false", "east": "false", "down": "true", "west": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_e", "x": 180 },
+      "when": { "south": "false", "up": "false", "east": "false", "down": "false", "west": "true" }
+    },
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_ne", "y": 180 },
+      "when": { "south": "false", "up": "true", "east": "true", "down": "false", "west": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_es", "y": 180 },
+      "when": { "south": "false", "up": "false", "east": "true", "down": "true", "west": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_ne", "x": 180 },
+      "when": { "south": "false", "up": "false", "east": "false", "down": "true", "west": "true" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_es", "x": 180 },
+      "when": { "south": "false", "up": "true", "east": "false", "down": "false", "west": "true" }
+    },
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_ns", "y": 180 },
+      "when": { "south": "false", "up": "true", "east": "false", "down": "true", "west": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_ew", "y": 180 },
+      "when": { "south": "false", "up": "false", "east": "true", "down": "false", "west": "true" }
+    },
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_nes", "y": 180 },
+      "when": { "south": "false", "up": "true", "east": "true", "down": "true", "west": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_esw", "y": 180 },
+      "when": { "south": "false", "up": "false", "east": "true", "down": "true", "west": "true" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_nes", "x": 180 },
+      "when": { "south": "false", "up": "true", "east": "false", "down": "true", "west": "true" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_esw", "x": 180 },
+      "when": { "south": "false", "up": "true", "east": "true", "down": "false", "west": "true" }
+    },
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_nesw", "y": 180 },
+      "when": { "south": "false", "up": "true", "east": "true", "down": "true", "west": "true" }
+    },
+	
+	
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside", "y": 270 },
+      "when": { "west": "false", "up": "false", "south": "false", "down": "false", "north": "false" }
+    },
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_n", "y": 270 },
+      "when": { "west": "false", "up": "true", "south": "false", "down": "false", "north": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_e", "y": 270 },
+      "when": { "west": "false", "up": "false", "south": "true", "down": "false", "north": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_n", "x": 180, "y": 90 },
+      "when": { "west": "false", "up": "false", "south": "false", "down": "true", "north": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_e", "x": 180, "y": 90 },
+      "when": { "west": "false", "up": "false", "south": "false", "down": "false", "north": "true" }
+    },
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_ne", "y": 270 },
+      "when": { "west": "false", "up": "true", "south": "true", "down": "false", "north": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_es", "y": 270 },
+      "when": { "west": "false", "up": "false", "south": "true", "down": "true", "north": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_ne", "x": 180, "y": 90 },
+      "when": { "west": "false", "up": "false", "south": "false", "down": "true", "north": "true" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_es", "x": 180, "y": 90 },
+      "when": { "west": "false", "up": "true", "south": "false", "down": "false", "north": "true" }
+    },
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_ns", "y": 270 },
+      "when": { "west": "false", "up": "true", "south": "false", "down": "true", "north": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_ew", "y": 270 },
+      "when": { "west": "false", "up": "false", "south": "true", "down": "false", "north": "true" }
+    },
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_nes", "y": 270 },
+      "when": { "west": "false", "up": "true", "south": "true", "down": "true", "north": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_esw", "y": 270 },
+      "when": { "west": "false", "up": "false", "south": "true", "down": "true", "north": "true" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_nes", "x": 180, "y": 90 },
+      "when": { "west": "false", "up": "true", "south": "false", "down": "true", "north": "true" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_esw", "x": 180, "y": 90 },
+      "when": { "west": "false", "up": "true", "south": "true", "down": "false", "north": "true" }
+    },
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_nesw", "y": 270 },
+      "when": { "west": "false", "up": "true", "south": "true", "down": "true", "north": "true" }
+    },
+	
+	
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside", "x": 270 },
+      "when": { "up": "false", "north": "false", "east": "false", "south": "false", "west": "false" }
+    },
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_n", "x": 270, "y": 180 },
+      "when": { "up": "false", "north": "true", "east": "false", "south": "false", "west": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_e", "x": 270, "y": 180 },
+      "when": { "up": "false", "north": "false", "east": "true", "south": "false", "west": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_n", "x": 270 },
+      "when": { "up": "false", "north": "false", "east": "false", "south": "true", "west": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_e", "x": 270 },
+      "when": { "up": "false", "north": "false", "east": "false", "south": "false", "west": "true" }
+    },
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_ne", "x": 270, "y": 180 },
+      "when": { "up": "false", "north": "true", "east": "true", "south": "false", "west": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_es", "x": 270, "y": 180 },
+      "when": { "up": "false", "north": "false", "east": "true", "south": "true", "west": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_ne", "x": 270 },
+      "when": { "up": "false", "north": "false", "east": "false", "south": "true", "west": "true" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_es", "x": 270 },
+      "when": { "up": "false", "north": "true", "east": "false", "south": "false", "west": "true" }
+    },
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_ns", "x": 270 },
+      "when": { "up": "false", "north": "true", "east": "false", "south": "true", "west": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_ew", "x": 270 },
+      "when": { "up": "false", "north": "false", "east": "true", "south": "false", "west": "true" }
+    },
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_nes", "x": 270, "y": 180 },
+      "when": { "up": "false", "north": "true", "east": "true", "south": "true", "west": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_esw", "x": 270, "y": 180 },
+      "when": { "up": "false", "north": "false", "east": "true", "south": "true", "west": "true" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_nes", "x": 270 },
+      "when": { "up": "false", "north": "true", "east": "false", "south": "true", "west": "true" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_esw", "x": 270 },
+      "when": { "up": "false", "north": "true", "east": "true", "south": "false", "west": "true" }
+    },
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_nesw", "x": 270 },
+      "when": { "up": "false", "north": "true", "east": "true", "south": "true", "west": "true" }
+    },
+	
+	
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside", "x": 90 },
+      "when": { "down": "false", "north": "false", "east": "false", "south": "false", "west": "false" }
+    },
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_n", "x": 90 },
+      "when": { "down": "false", "north": "true", "east": "false", "south": "false", "west": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_e", "x": 90, "y": 180 },
+      "when": { "down": "false", "north": "false", "east": "true", "south": "false", "west": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_n", "x": 90, "y": 180 },
+      "when": { "down": "false", "north": "false", "east": "false", "south": "true", "west": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_e", "x": 90 },
+      "when": { "down": "false", "north": "false", "east": "false", "south": "false", "west": "true" }
+    },
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_es", "x": 90, "y": 180 },
+      "when": { "down": "false", "north": "true", "east": "true", "south": "false", "west": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_ne", "x": 90, "y": 180 },
+      "when": { "down": "false", "north": "false", "east": "true", "south": "true", "west": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_es", "x": 90 },
+      "when": { "down": "false", "north": "false", "east": "false", "south": "true", "west": "true" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_ne", "x": 90 },
+      "when": { "down": "false", "north": "true", "east": "false", "south": "false", "west": "true" }
+    },
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_ns", "x": 90 },
+      "when": { "down": "false", "north": "true", "east": "false", "south": "true", "west": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_ew", "x": 90 },
+      "when": { "down": "false", "north": "false", "east": "true", "south": "false", "west": "true" }
+    },
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_nes", "x": 90, "y": 180 },
+      "when": { "down": "false", "north": "true", "east": "true", "south": "true", "west": "false" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_esw", "x": 90 },
+      "when": { "down": "false", "north": "false", "east": "true", "south": "true", "west": "true" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_nes", "x": 90 },
+      "when": { "down": "false", "north": "true", "east": "false", "south": "true", "west": "true" }
+    },
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_esw", "x": 90, "y": 180 },
+      "when": { "down": "false", "north": "true", "east": "true", "south": "false", "west": "true" }
+    },
+	
+    { "apply": { "model": "minecraft:block/brown_mushroom_block_inside_nesw", "x": 90 },
+      "when": { "down": "false", "north": "true", "east": "true", "south": "true", "west": "true" }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+	"texture_size": [64, 96],
+	"textures": {
+		"0": "block/brown_mushroom_large",
+		"particle": "block/brown_mushroom_block"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 0],
+			"faces": {
+				"north": {"uv": [0, 5.33333, 4, 8], "texture": "#0"}
+			}
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "galosphere_delight:items/lumiere_shimmer_drink"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "create_things_and_misc:custom/portable_whistle",
+  "textures": {
+    "0": "create_things_and_misc:blocks/whistle",
+    "particle": "create_things_and_misc:items/particules_invisible"
+  }
+}

@@ -1,0 +1,20 @@
+{
+	"textures": {
+		"0": "block/cobweb",
+		"particle": "block/cobweb"
+	},
+	"elements": [
+		{
+			"from": [0.1, 0.1, 15.9],
+			"to": [15.9, 15.9, 0.1],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0", "cullface": "north"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#0", "cullface": "west"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0", "cullface": "east"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0", "cullface": "down"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0", "cullface": "up"}
+			}
+		}
+	]
+}

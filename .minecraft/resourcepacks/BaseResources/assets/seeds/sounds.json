@@ -1,0 +1,20 @@
+{
+  "vacuum_cleaner_sound": {
+    "subtitle": "subtitles.vacuum_cleaner_sound",
+    "sounds": [
+      {
+        "name": "seeds:vacuum_cleaner_sound",
+        "stream": false
+      }
+    ]
+  },
+  "into_the_jungle": {
+    "subtitle": "subtitles.into_the_jungle",
+    "sounds": [
+      {
+        "name": "seeds:minecraft-ust-into-the-jungle-jungle-music-disc-concept",
+        "stream": true
+      }
+    ]
+  }
+}

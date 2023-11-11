@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "block/prismarine_bricks_slab_double",
+    "side": "block/prismarine_bricks_slab_double"
+  }
+}

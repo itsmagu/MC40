@@ -1,0 +1,6 @@
+{
+  "parent": "block/brick_wall_side_tall2",
+  "textures": {
+    "wall": "block/blackstone"
+  }
+}

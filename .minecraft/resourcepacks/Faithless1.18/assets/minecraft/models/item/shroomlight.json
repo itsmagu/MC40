@@ -1,0 +1,4 @@
+{
+  "parent": "block/shroomlight",
+  "gui_light": "front"
+}

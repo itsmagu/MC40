@@ -1,0 +1,8 @@
+{
+  "parent": "create_things_and_misc:custom/train_sing",
+  "textures": {
+    "all": "create_things_and_misc:blocks/green0",
+    "particle": "create_things_and_misc:blocks/green0",
+    "0": "create_things_and_misc:blocks/green4"
+  }
+}

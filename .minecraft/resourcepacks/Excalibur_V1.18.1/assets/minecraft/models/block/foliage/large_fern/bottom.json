@@ -1,0 +1,6 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/large_fern_bottom"
+	}
+}

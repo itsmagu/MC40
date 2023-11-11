@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "seeds:blocks/gaze_detector_top",
+    "up": "seeds:blocks/gaze_detector_top",
+    "north": "seeds:blocks/gaze_detector_face_on",
+    "east": "seeds:blocks/gaze_detector_face_on",
+    "south": "seeds:blocks/gaze_detector_face_on",
+    "west": "seeds:blocks/gaze_detector_face_on",
+    "particle": "seeds:blocks/gaze_detector_top"
+  }
+}

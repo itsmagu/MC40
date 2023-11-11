@@ -1,0 +1,6 @@
+{
+	"parent": "block/bookshelf",
+	"textures": {
+		"0": "block/bookshelf2"
+	}
+}

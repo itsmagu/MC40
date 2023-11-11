@@ -1,0 +1,8 @@
+{
+    "parent": "block/oak_fence_post",
+	"textures": {
+		"texture": "block/spruce_fence2",
+		"log": "block/stripped_spruce_log_top",
+		"particle": "block/spruce_planks"
+	}
+}

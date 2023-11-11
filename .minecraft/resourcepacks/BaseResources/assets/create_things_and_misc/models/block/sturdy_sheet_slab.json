@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "create_things_and_misc:blocks/sturdy_sheet_block",
+    "top": "create_things_and_misc:blocks/sturdy_sheet_block",
+    "side": "create_things_and_misc:blocks/sturdy_sheet_slab"
+  }
+}
