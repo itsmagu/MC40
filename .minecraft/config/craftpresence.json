@@ -173,7 +173,8 @@
     },
     "dynamicIcons": {
       "Hernet": "https://mc-heads.net/avatar/9a8432f3dafe49b09970127dfc07cbbf",
-      "default": "https://via.placeholder.com/256.png"
+      "default": "https://via.placeholder.com/256.png",
+      "Prynet.mcnetwork.me": "https://api.mcsrvstat.us/icon/Prynet.mcnetwork.me"
     },
     "dynamicVariables": {
       "default": "Example Text",
