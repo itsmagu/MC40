@@ -1,7 +1,7 @@
 
 [resources_and_cooldowns]
 	hud_offset_x = 0
-	hud_offset_y = 0
+	hud_offset_y = -24
 
 [tooltips]
 	show_usability_hints = true
