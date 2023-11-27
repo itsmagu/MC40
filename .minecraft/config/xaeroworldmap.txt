@@ -20,8 +20,8 @@ renderArrow:true
 displayZoom:true
 worldmapWaypointsScale:1.0
 openMapAnimation:true
-reloadVersion:0
-reloadEverything:false
+reloadVersion:2
+reloadEverything:true
 zoomButtons:true
 waypointBackgrounds:true
 detectAmbiguousY:true
@@ -47,7 +47,7 @@ trackedPlayers:true
 multipleImagesExport:false
 nightExport:false
 highlightsExport:false
-exportScaleDownSquare:20
+exportScaleDownSquare:48
 mapWritingDistance:-1
 displayClaims:true
 claimsFillOpacity:46
